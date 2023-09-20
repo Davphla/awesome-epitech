@@ -8,13 +8,42 @@ A collection of awesome things regarding the Epitech school ecosystem.
 - [Documentation](#documentation)
 - [Projects](#projects)
 - [Contributing](#contributing)
-- [License](#license)
 
-## Tools
+## General tools
+
+- clang-format - A tool to format C/C++ code according to the Epitech's coding style. 
+
+## Epitech Tools
+### General use
+
+#### C tools
+- Norminettes
+    - [Abricot](https://github.com/Just1truc/Abricot-Norminette) - A norminette for C projects.
+     - [NormEZ](https://github.com/ronanboiteau/NormEZ) - A norminette for C projects.
+- Github action
+    - [Github criterion action](https://github.com/MaximePremont/EpitechCriterionActions) - A Github action to run criterion tests on your C projects.
+
+### Project specific
+
+### Functional tests
+#### Tek 1 
+#### Tek 2
+
+- [Epitech functional tests](https://github.com/izimio/myMouli-Epitech-TESTERS ) - A collection of functional tests for Epitech's projects.
+#### Tek 3
+
+### Browser extension
+
+
 
 ## Documentation
 
+// TODO 
+
 ## Projects
+
+- [Epitech Subject](https://github.com/Studio-17/Epitech-Subjects) - A collection of Epitech's projects subjects.
+
 
 
 ## Contributing
