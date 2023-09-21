@@ -68,7 +68,7 @@ A collection of awesome things regarding the Epitech school ecosystem.
 ### Language related
 
 #### C tools
-- Norminettes
+- Norminettes - A tool to check your code according to the Epitech's coding style.
     - [Abricot](https://github.com/Just1truc/Abricot-Norminette) - A norminette for C projects.
      - [NormEZ](https://github.com/ronanboiteau/NormEZ) - A norminette for C projects.
 - Github action
@@ -118,12 +118,12 @@ A collection of awesome things regarding the Epitech school ecosystem.
 - [Epitech to google calendar](https://github.com/Thezap/Linker_EPITECH_To_GOOGLE_Calendar) - A browser extension to sync your Epitech calendar to your Google calendar.
 - [Intrabot](https://github.com/BastienBoymond/IntraBot) - A Discord bot to get your Epitech's information on discord.
 
-#### Firefox extension
+#### Navigator extension (Chrome/Firefox)
 - [MyEpitech percentage](https://github.com/alwyn974/MyEpitechExt) - A browser extension to see your Epitech's percentage.
 
+#### Firefox extension
+
 #### Chrome extension
-
-
 
 ## Documentations
 
@@ -139,7 +139,7 @@ A collection of awesome things regarding the Epitech school ecosystem.
 
 ### Tek 4 - Internationnal year
 
-- [Tekfeed](https://tekfeed.epitech.eu/) - Official website to see Epitech's destinations.
+- [Tekfeed](https://tekfeed.epitech.eu/) - Official website for Epitech's destinations.
 
 
 ### Tek 5
@@ -149,7 +149,9 @@ A collection of awesome things regarding the Epitech school ecosystem.
 ### South Korea :kr:
 
 - [Chung ang university](https://neweng.cau.ac.kr/index.do) - A university in Seoul.
-    - [Chung ang instagram](https://www.instagram.com/epitech.cau/) - Instagram account of the Epitech's campus in Chung ang university.
+    - [CAU Global ambassador youbube channel](https://www.youtube.com/channel/UCBxSxDSt1s9iX_-3J2mxQyA) - Youtube channel of the GLAM (Global ambassador) of Chung ang university.
+    - [CAU Global ambassador instagram](https://www.instagram.com/cau_glam/) - Instagram of the GLAM (Global ambassador) of Chung ang university.
+    
 - [Korea university](https://www.korea.edu/) - A university in Seoul.
 
 ### Canada :canada:
