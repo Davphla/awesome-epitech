@@ -73,6 +73,7 @@ A collection of awesome things regarding the Epitech school ecosystem.
      - [NormEZ](https://github.com/ronanboiteau/NormEZ) - A norminette for C projects.
 - Github action
     - [Github criterion action](https://github.com/MaximePremont/EpitechCriterionActions) - A Github action to run criterion tests on your C projects.
+- [MyRepo](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/myrepo) - A tool to create your Epitech's C repository.
 
 #### C++ tools
 
@@ -106,6 +107,9 @@ A collection of awesome things regarding the Epitech school ecosystem.
 
 ### Functional tests
 #### Tek 1 
+- [Pushswap tester](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/checkers/pushswap) - A number generator and a tester for the pushswap project.
+- [Sokoban tester](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/checkers/sokoban) - A tester for the sokoban project.
+
 #### Tek 2
 
 - [Epitech functional tests](https://github.com/izimio/myMouli-Epitech-TESTERS ) - A collection of functional tests for Epitech's projects.
@@ -124,6 +128,8 @@ A collection of awesome things regarding the Epitech school ecosystem.
 #### Firefox extension
 
 #### Chrome extension
+- [Full GPA](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/fullgpa) - A browser extension to see your Epitech's GPA with a more precise value.
+- [Flat intranet theme](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/flatintra) - A browser extension to change the intranet theme to a flat theme.
 
 ## Documentations
 
@@ -149,9 +155,9 @@ A collection of awesome things regarding the Epitech school ecosystem.
 ### South Korea :kr:
 
 - [Chung ang university](https://neweng.cau.ac.kr/index.do) - A university in Seoul.
-    - [CAU Global ambassador youbube channel](https://www.youtube.com/channel/UCBxSxDSt1s9iX_-3J2mxQyA) - Youtube channel of the GLAM (Global ambassador) of Chung ang university.
+    - [CAU Global ambassador youtube channel](https://www.youtube.com/channel/UCBxSxDSt1s9iX_-3J2mxQyA) - Youtube channel of the GLAM (Global ambassador) of Chung ang university.
     - [CAU Global ambassador instagram](https://www.instagram.com/cau_glam/) - Instagram of the GLAM (Global ambassador) of Chung ang university.
-    
+
 - [Korea university](https://www.korea.edu/) - A university in Seoul.
 
 ### Canada :canada:
