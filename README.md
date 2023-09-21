@@ -111,10 +111,18 @@ A collection of awesome things regarding the Epitech school ecosystem.
 - [Epitech functional tests](https://github.com/izimio/myMouli-Epitech-TESTERS ) - A collection of functional tests for Epitech's projects.
 #### Tek 3
 
-### Browser extension
+### External tools
 
-- [MyEpitech percentage](https://github.com/alwyn974/MyEpitechExt) - A browser extension to see your Epitech's percentage.
+#### Intranet related
+
 - [Epitech to google calendar](https://github.com/Thezap/Linker_EPITECH_To_GOOGLE_Calendar) - A browser extension to sync your Epitech calendar to your Google calendar.
+- [Intrabot](https://github.com/BastienBoymond/IntraBot) - A Discord bot to get your Epitech's information in a discord bot.
+
+#### Firefox extension
+- [MyEpitech percentage](https://github.com/alwyn974/MyEpitechExt) - A browser extension to see your Epitech's percentage.
+
+#### Chrome extension
+
 
 
 ## Documentations
@@ -141,6 +149,7 @@ A collection of awesome things regarding the Epitech school ecosystem.
 ### South Korea :kr:
 
 - [Chung ang university](https://neweng.cau.ac.kr/index.do) - A university in Seoul.
+    - [Chung ang instagram](https://www.instagram.com/epitech.cau/) - Instagram account of the Epitech's campus in Chung ang university.
 - [Korea university](https://www.korea.edu/) - A university in Seoul.
 
 ### Canada :canada:
