@@ -117,26 +117,42 @@ A collection of awesome things regarding the Epitech school ecosystem.
 - [Epitech to google calendar](https://github.com/Thezap/Linker_EPITECH_To_GOOGLE_Calendar) - A browser extension to sync your Epitech calendar to your Google calendar.
 
 
-## Documentations and websites
+## Documentations
 
 ### General
+
+- [Epitech Subject](https://github.com/Studio-17/Epitech-Subjects) - A collection of Epitech's projects subjects.
 
 ### Tek 1
 
 ### Tek 2
 
-### Tek 3
+### Tek 3 
 
-### Tek 4
+### Tek 4 - Internationnal year
+
+- [Tekfeed](https://tekfeed.epitech.eu/) - Official website to see Epitech's destinations.
+
 
 ### Tek 5
 
+## International documentation
+
+### South Korea :kr:
+
+- [Chung ang university](https://neweng.cau.ac.kr/index.do) - A university in Seoul.
+- [Korea university](https://www.korea.edu/) - A university in Seoul.
+
+### Canada :canada:
+
+- [University of Laval](https://www.ulaval.ca/) - A university in Quebec.
 
 
-## Projects
+### United states of America :us:
 
-- [Epitech Subject](https://github.com/Studio-17/Epitech-Subjects) - A collection of Epitech's projects subjects.
+### China :cn:
 
+### Japan :jp:
 
 
 ## Contributing
