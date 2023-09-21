@@ -13,7 +13,19 @@ A collection of awesome things regarding the Epitech school ecosystem.
 - [Projects](#projects)
 - [Contributing](#contributing)
 
-## General tools
+## Collection of awesome lists
+
+- [Awesome](https://github.com/sindresorhus/awesome) - A collection of awesome lists.
+- [Awesome C](https://github.com/oz123/awesome-c) - A collection of awesome C frameworks, libraries and software.
+- [Awesome Linux](https://github.com/inputsh/awesome-linux#readme) - A collection of awesome lists regarding Linux.
+- [Awesome Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - A collection of awesome lists regarding Visual Studio Code.
+- [Awesome Shell](https://github.com/alebcay/awesome-shell#readme) - A collection of awesome lists regarding shell.
+- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of awesome lists regarding hacking.
+- [Awesome Arch](https://github.com/PandaFoss/Awesome-Arch#readme) - A collection of awesome lists regarding Arch Linux.
+- [Awesome Neovim](https://github.com/rockerBOO/awesome-neovim#readme) - A collection of awesome lists regarding Neovim.
+- [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs#readme) - A collection of awesome lists regarding Emacs.
+
+## General 
 
 ### General use
 
@@ -22,6 +34,7 @@ A collection of awesome things regarding the Epitech school ecosystem.
     - clang-tidy - A tool to check your code.
     - clang-format - A tool to format C/C++ code
         - Configuration to format codes according to the Epitech's coding style.
+- ccache - A tool to cache your compilation.
 - valgrind - A tool to debug memory leaks.
 - gdb - A tool to debug your code.
 - git - A tool to manage your code.
@@ -29,6 +42,14 @@ A collection of awesome things regarding the Epitech school ecosystem.
 - doxygen - A tool to generate documentation from your code.
 - make - A tool to manage your code.
 - cmake - A tool to manage your code.
+
+
+### Operating system
+
+- [EndeavourOS](https://endeavouros.com/) - Arch based operating system.
+- [Ubuntu](https://ubuntu.com/) - A free and open-source operating system.
+- [Fedora](https://getfedora.org/) - A free and open-source operating system.
+- [Arch Linux](https://archlinux.org/) - A free and open-source operating system.
 
 ### Shell
 
@@ -44,7 +65,7 @@ A collection of awesome things regarding the Epitech school ecosystem.
 
 
 ## Epitech Tools
-### General use
+### Language related
 
 #### C tools
 - Norminettes
@@ -56,6 +77,16 @@ A collection of awesome things regarding the Epitech school ecosystem.
 #### C++ tools
 
 #### Haskell tools
+
+#### Python tools
+
+
+### Environment related
+
+#### Docker
+
+- [Epitech Docker](https://hub.docker.com/r/epitechcontent/epitest-docker) - A docker image to run your Epitech's projects.
+
 
 
 ### Project specific
