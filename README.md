@@ -116,7 +116,7 @@ A collection of awesome things regarding the Epitech school ecosystem.
 #### Intranet related
 
 - [Epitech to google calendar](https://github.com/Thezap/Linker_EPITECH_To_GOOGLE_Calendar) - A browser extension to sync your Epitech calendar to your Google calendar.
-- [Intrabot](https://github.com/BastienBoymond/IntraBot) - A Discord bot to get your Epitech's information in a discord bot.
+- [Intrabot](https://github.com/BastienBoymond/IntraBot) - A Discord bot to get your Epitech's information on discord.
 
 #### Firefox extension
 - [MyEpitech percentage](https://github.com/alwyn974/MyEpitechExt) - A browser extension to see your Epitech's percentage.
