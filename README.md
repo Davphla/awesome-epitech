@@ -23,12 +23,12 @@ This is still in construction, feel free to contribute !
 
 ### General use
 
-- clang collection - A collection of tools to compile C/C++ code.
+#### C/C++ tools
+- clang collection - A collection of tools for C/C++ code.
     - clang - A compiler for C/C++ code.
     - clang-tidy - A tool to check your code.
     - clang-format - A tool to format C/C++ code
-        - Configuration to format codes according to the Epitech's coding style.
-- ccache - A tool to cache your compilation.
+- ccache - A tool to cache your compilation (Especially useful in C++).
 - valgrind - A tool to debug memory leaks.
 - gdb - A tool to debug your code.
 
@@ -57,6 +57,7 @@ This is still in construction, feel free to contribute !
 ### Language related
 
 #### C tools
+- [Epitech clang-format]() - Configuration to format codes according to the Epitech's coding style. // TODO
 - Norminette - Tool to check your code according to the Epitech's coding style.
     - [Coding style checker](https://github.com/Epitech/coding-style-checker) :white_check_mark: - Official coding style checker made by Epitech. 
     - [Banana split](https://github.com/Epitech/coding-style-checker) - Retextured version of the official coding style checker.
@@ -77,11 +78,8 @@ This is still in construction, feel free to contribute !
 
 #### Docker
 
-- [Epitech Docker](https://hub.docker.com/r/epitechcontent/epitest-docker) - A docker image to run your Epitech's projects.
+- [Epitech Docker](https://hub.docker.com/r/epitechcontent/epitest-docker) - A docker image to run your Epitech's projects. ([Github repository](https://github.com/Epitech/epitest-docker))
 
-
-
-### Project specific
 
 ### IDE extensions
 
@@ -94,7 +92,11 @@ This is still in construction, feel free to contribute !
     - [Epitech Jetbrains extension]()
 - Emacs - A free and open-source IDE.
     - [Epitech Emacs extension]()
-    
+
+### Project specific
+
+#### Tek 1
+- [Pushswap visualizer](https://github.com/VecoMr/pushswap-visualizer) - A visualizer for the pushswap project.
 
 ### Functional tests
 #### Tools
@@ -120,7 +122,7 @@ This is still in construction, feel free to contribute !
 - [Terminal Timeline](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/terminal_timeline) - Allow you to access to your Epitech's timeline from the terminal.
 
 #### Intranet related (Use old Epitech token system, not working anymore)
-- [Intrabot](https://github.com/BastienBoymond/IntraBot) - A Discord bot to get your Epitech's information on discord.
+- [Intrabot](https://github.com/BastienBoymond/IntraBot) :x: - A Discord bot to get your Epitech's information on discord.
 
 #### Navigator extension (Chrome/Firefox)
 - [MyEpitech percentages](https://github.com/alwyn974/MyEpitechExt) - A browser extension to see your Epitech's percentage.
@@ -137,10 +139,15 @@ This is still in construction, feel free to contribute !
 ### Useful website
 
 - [Epitech Github](https://github.com/Epitech) :white_check_mark: - Official Epitech's Github.
+- [Epitech Intranet](https://intra.epitech.eu/) :white_check_mark: - Official Epitech's intranet.
 - [Epitech Intranet documentation](https://intra.epitech.eu/file/public/documentation) :white_check_mark: - Official Epitech's intranet documentation.
 
 ### General
 - [Epitech Subject](https://github.com/Studio-17/Epitech-Subjects) - A collection of Epitech's projects subjects.
+
+### Learn Vim
+- [Vim Adventures](https://vim-adventures.com/) - A game to learn Vim.
+- [VimGenius](http://www.vimgenius.com/) - A game to learn Vim.
 
 ### Tek 1
 
@@ -154,6 +161,19 @@ This is still in construction, feel free to contribute !
 
 
 ### Tek 5
+
+## Awesome Epitech project
+
+### General
+
+### Tek 1
+
+#### MyRPG 
+- [MyRPG](https://github.com/MikaelVallenet/my_rpg) (Promo 2025 Lyon) - Game made on stardew valley theme.
+
+### Tek 2
+
+### Tek 3
 
 ## International documentation
 
@@ -182,6 +202,10 @@ This is still in construction, feel free to contribute !
 Contributions are very welcome ! Please have a look at [the contribution guidelines](CONTRIBUTING.md) first. :tada: 
 
 
+## Notes
+
+- :white_check_mark: - Official Epitech's tool.
+- :x: - Outdated, needs a rework.
 
 
 
