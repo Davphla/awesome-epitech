@@ -218,5 +218,8 @@ Contributions are very welcome ! Please have a look at [the contribution guideli
 - :white_check_mark: - Official Epitech's tool.
 - :x: - Outdated, needs a rework.
 
+This is a project I made to help Epitech's students. I'm not affiliated with Epitech in any way. There're no specific order for elements in the lists. 
+Have fun ! :heart:
+
 
 
