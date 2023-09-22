@@ -35,7 +35,7 @@ This is still in construction, feel free to contribute !
     - [Tek 1](#tek-1-2)
     - [Tek 2](#tek-2-2)
     - [Tek 3](#tek-3-2)
-    - [Tek 4 - Internationnal year](#tek-4---internationnal-year)
+    - [Tek 4 - international year](#tek-4---international-year)
     - [Tek 5](#tek-5)
 - [Documentations](#documentations)
     - [Useful website](#useful-website)
@@ -44,7 +44,7 @@ This is still in construction, feel free to contribute !
     - [Tek 1](#tek-1-3)
     - [Tek 2](#tek-2-3)
     - [Tek 3](#tek-3-3)
-    - [Tek 4 - Internationnal year](#tek-4---internationnal-year-1)
+    - [Tek 4 - international year](#tek-4---international-year-1)
     - [Tek 5](#tek-5-1)
 - [International documentation](#international-documentation)
     - [South Korea :kr:](#south-korea-kr)
@@ -244,7 +244,7 @@ This is still in construction, feel free to contribute !
 ### Tek 3 
 *Empty*
 
-### Tek 4 - Internationnal year
+### Tek 4 - International year
 - [Tekfeed](https://tekfeed.epitech.eu/) :white_check_mark: - Official website for Epitech's destinations.
 
 
