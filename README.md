@@ -234,7 +234,7 @@ Contributions are very welcome ! Please have a look at [the contribution guideli
 ## Notes
 
 - :white_check_mark: - Official Epitech's tool.
-- :wrench: - Need a rework, not working anymore.
+- :wrench: - Needs a rework.
 - :question: - Not sure if it's working.
 - :x: - Outdated.
 
