@@ -100,7 +100,7 @@ This is still in construction, feel free to contribute !
 
 ### Functional tests
 #### Tools
-- [Moulitek](https://github.com/MathiDEV/moulitek_fr) :x: - Tool to launch functional tests on your Epitech's projects from a website.
+- [Moulitek](https://github.com/MathiDEV/moulitek_fr) :wrench: - Tool to launch functional tests on your Epitech's projects from a website.
 - [Discord functional test CI](https://github.com/vavarier/install-discord-action) - Allow you to launch functional tests and check your coding style from a Discord bot.
 
 #### Tek 1 
@@ -124,7 +124,7 @@ This is still in construction, feel free to contribute !
 - [Terminal Timeline](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/terminal_timeline) - Allow you to access to your Epitech's timeline from the terminal.
 
 #### Intranet related (Use old Epitech token system, not working anymore)
-- [Intrabot](https://github.com/BastienBoymond/IntraBot) :x: - A Discord bot to get your Epitech's information on discord.
+- [Intrabot](https://github.com/BastienBoymond/IntraBot) :wrench: - A Discord bot to get your Epitech's information on discord.
 
 #### Navigator extension (Chrome/Firefox)
 - [MyEpitech percentages](https://github.com/alwyn974/MyEpitechExt) - See your Epitech's percentage.
@@ -143,6 +143,9 @@ This is still in construction, feel free to contribute !
 
 
 ### Tek 1
+#### MyRunner :x:
+- [MyRunner](https://github.com/Davphla/my_runner) - Made by David
+
 #### Corewar
 - [Corewar](https://github.com/Just1truc/Corewar-EPITECH-2022) (Promo 2026 Lyon) - Made by Justin and others. (22/22)
 - [Corewar](https://github.com/MikaelVallenet/Corewar) (Promo 2025 Lyon) - Made by Mikael, David, Maxime and Victor. (20/22)
@@ -231,7 +234,9 @@ Contributions are very welcome ! Please have a look at [the contribution guideli
 ## Notes
 
 - :white_check_mark: - Official Epitech's tool.
-- :x: - Outdated, needs a rework.
+- :wrench: - Need a rework, not working anymore.
+- :question: - Not sure if it's working.
+- :x: - Outdated.
 
 This is a project I made to help Epitech's students. I'm not affiliated with Epitech in any way. There're no specific order for elements in the lists. 
 Have fun ! :heart:
