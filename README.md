@@ -68,10 +68,13 @@ This is still in construction, feel free to contribute !
 - [MyRepo](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/myrepo) - A tool to create your Epitech's C repository.
 
 #### C++ tools
+*Empty*
 
 #### Haskell tools
+*Empty*
 
 #### Python tools
+*Empty*
 
 
 ### Environment related
@@ -100,7 +103,7 @@ This is still in construction, feel free to contribute !
 
 ### Functional tests
 #### Tools
-- [Moulitek](https://github.com/MathiDEV/moulitek_fr) - A tool to launch functional tests on your Epitech's projects from a website.
+- [Moulitek](https://github.com/MathiDEV/moulitek_fr) - Tool to launch functional tests on your Epitech's projects from a website.
 - [Discord functional test CI](https://github.com/vavarier/install-discord-action) - Allow you to launch functional tests and check your coding style from a Discord bot.
 
 #### Tek 1 
@@ -113,6 +116,7 @@ This is still in construction, feel free to contribute !
 
 - [Epitech functional tests](https://github.com/izimio/myMouli-Epitech-TESTERS ) - A collection of functional tests for Epitech's projects.
 #### Tek 3
+*Empty*
 
 ### External tools
 
@@ -150,26 +154,33 @@ This is still in construction, feel free to contribute !
 - [VimGenius](http://www.vimgenius.com/) - A game to learn Vim.
 
 ### Tek 1
+*Empty*
 
 ### Tek 2
+*Empty*
 
 ### Tek 3 
+*Empty*
 
 ### Tek 4 - Internationnal year
-
 - [Tekfeed](https://tekfeed.epitech.eu/) :white_check_mark: - Official website for Epitech's destinations.
 
 
 ### Tek 5
+*Empty*
 
 ## Awesome Epitech project
 
 ### General
 
+- [Project tek 1 / tek 3](https://github.com/gauthiercler/epitech) - A collection of Epitech's projects from the first 3 years.
+
 ### Tek 1
+#### Corewar
+- [Corewar](https://github.com/MikaelVallenet/Corewar) (Promo 2025 Lyon) - Made by Mikael, David, Maxime and Victor.
 
 #### MyRPG 
-- [MyRPG](https://github.com/MikaelVallenet/my_rpg) (Promo 2025 Lyon) - Game made on stardew valley theme.
+- [MyRPG](https://github.com/MikaelVallenet/my_rpg) (Promo 2025 Lyon) - Game made on stardew valley theme. Made by Mikael, Nolann, David and Maxime.
 
 ### Tek 2
 
