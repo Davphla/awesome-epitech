@@ -137,6 +137,23 @@ This is still in construction, feel free to contribute !
 - [Full GPA](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/fullgpa) - A browser extension to see your Epitech's GPA with a more precise value.
 - [Flat intranet theme](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/flatintra) - A browser extension to change the intranet theme to a flat theme.
 
+## Awesome Epitech project
+
+### General
+
+- [Project tek 1 / tek 3](https://github.com/gauthiercler/epitech) - A collection of Epitech's projects from the first 3 years.
+
+### Tek 1
+#### Corewar
+- [Corewar](https://github.com/MikaelVallenet/Corewar) (Promo 2025 Lyon) - Made by Mikael, David, Maxime and Victor.
+
+#### MyRPG 
+- [MyRPG](https://github.com/MikaelVallenet/my_rpg) (Promo 2025 Lyon) - Game made on stardew valley theme. Made by Mikael, Nolann, David and Maxime.
+
+### Tek 2
+
+### Tek 3
+
 
 ## Documentations
 
@@ -168,23 +185,6 @@ This is still in construction, feel free to contribute !
 
 ### Tek 5
 *Empty*
-
-## Awesome Epitech project
-
-### General
-
-- [Project tek 1 / tek 3](https://github.com/gauthiercler/epitech) - A collection of Epitech's projects from the first 3 years.
-
-### Tek 1
-#### Corewar
-- [Corewar](https://github.com/MikaelVallenet/Corewar) (Promo 2025 Lyon) - Made by Mikael, David, Maxime and Victor.
-
-#### MyRPG 
-- [MyRPG](https://github.com/MikaelVallenet/my_rpg) (Promo 2025 Lyon) - Game made on stardew valley theme. Made by Mikael, Nolann, David and Maxime.
-
-### Tek 2
-
-### Tek 3
 
 ## International documentation
 
