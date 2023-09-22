@@ -100,7 +100,7 @@ This is still in construction, feel free to contribute !
 
 ### Functional tests
 #### Tools
-- [Moulitek](https://github.com/MathiDEV/moulitek_fr) - Tool to launch functional tests on your Epitech's projects from a website.
+- [Moulitek](https://github.com/MathiDEV/moulitek_fr) :x: - Tool to launch functional tests on your Epitech's projects from a website.
 - [Discord functional test CI](https://github.com/vavarier/install-discord-action) - Allow you to launch functional tests and check your coding style from a Discord bot.
 
 #### Tek 1 
