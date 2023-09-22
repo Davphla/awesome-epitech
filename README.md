@@ -17,7 +17,7 @@ This is still in construction, feel free to contribute !
 - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of awesome lists regarding hacking.
 - [Awesome Arch](https://github.com/PandaFoss/Awesome-Arch#readme) - A collection of awesome lists regarding Arch Linux.
 - [Awesome Neovim](https://github.com/rockerBOO/awesome-neovim#readme) - A collection of awesome lists regarding Neovim.
-- [Awesome Vic](https://github.com/akrawchyk/awesome-vim) - A collection of awesome lists regarding Vim.
+- [Awesome Vim](https://github.com/akrawchyk/awesome-vim) - A collection of awesome lists regarding Vim.
 - [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs#readme) - A collection of awesome lists regarding Emacs.
 
 ## General 
@@ -108,6 +108,7 @@ This is still in construction, feel free to contribute !
 - [Pushswap tester](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/checkers/pushswap) - A number generator and a tester for the pushswap project.
 - [Sokoban tester](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/checkers/sokoban) - A tester for the sokoban project.
 - [Antman tester](https://github.com/Just1truc/Antman_tester) - A tester for the antman project.
+- [Corewar tester](https://github.com/MikaelVallenet/Corewar/tree/main/bonus/moulinette) - A tester for the compiler part of the Corewar project.
 
 #### Tek 2
 
@@ -140,17 +141,32 @@ This is still in construction, feel free to contribute !
 
 - [Project tek 1 / tek 3](https://github.com/gauthiercler/epitech) - A collection of Epitech's projects from the first 3 years.
 
+
 ### Tek 1
 #### Corewar
-- [Corewar](https://github.com/MikaelVallenet/Corewar) (Promo 2025 Lyon) - Made by Mikael, David, Maxime and Victor.
+- [Corewar](https://github.com/Just1truc/Corewar-EPITECH-2022) (Promo 2026 Lyon) - Made by Justin and others. (22/22)
+- [Corewar](https://github.com/MikaelVallenet/Corewar) (Promo 2025 Lyon) - Made by Mikael, David, Maxime and Victor. (20/22)
 
 #### MyRPG 
 - [MyRPG](https://github.com/MikaelVallenet/my_rpg) (Promo 2025 Lyon) - Game made on stardew valley theme. Made by Mikael, Nolann, David and Maxime.
 
 ### Tek 2
+#### Pool
+
+- [Haskell pool](https://github.com/mpellouin/haskell-pool) (Promo 2025) - Haskell pool.
+- [CPP Pool](https://github.com/mpellouin/cpp-pool) (Promo 2025) - C++ pool.
+
+#### C++
+- [Nanotekspice](https://github.com/mpellouin/nanotekspice) (Promo 2025) - Nanotekspice project.
+
+
+#### Haskell
+- [Image Compressor](https://github.com/mpellouin/imageCompressor) (Promo 2025) - Image Compressor project.
+
+#### Assembly
+- [MinilibC](https://github.com/mpellouin/minilibc) (Promo 2025) - MinilibC project.
 
 ### Tek 3
-
 
 ## Documentations
 
@@ -188,8 +204,10 @@ This is still in construction, feel free to contribute !
 ### South Korea :kr:
 
 - [Chung ang university](https://neweng.cau.ac.kr/index.do) - A university in Seoul.
-    - [CAU Global ambassador youtube channel](https://www.youtube.com/channel/UCBxSxDSt1s9iX_-3J2mxQyA) - Youtube channel of the GLAM (Global ambassador) of Chung ang university.
-    - [CAU Global ambassador instagram](https://www.instagram.com/cau_glam/) - Instagram of the GLAM (Global ambassador) of Chung ang university.
+    - [Chung ang Website](https://neweng.cau.ac.kr/index.do) - Chung ang university's website.
+    - GLAM - **Gl**obal **Am**bassador of Chung ang university.
+        - [CAU Global ambassador youtube channel](https://www.youtube.com/channel/UCBxSxDSt1s9iX_-3J2mxQyA) - Youtube channel of the GLAM (Global ambassador) of Chung ang university.
+        - [CAU Global ambassador instagram](https://www.instagram.com/cau_glam/) - Instagram of the GLAM (Global ambassador) of Chung ang university.
 
 - [Korea university](https://www.korea.edu/) - A university in Seoul.
 
