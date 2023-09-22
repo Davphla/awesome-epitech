@@ -1,17 +1,11 @@
 ## **Awesome Epitech** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection of awesome things regarding the Epitech school ecosystem.
+This is still in construction, feel free to contribute !
 
 ## Contents
 
-- [Tools](#General-tools)
-    - [General use](#general-use)
-    - [Shell](#shell)
-    - [IDE](#ide)
-- [Epitech Tools]()
-- [Documentation](#documentation)
-- [Projects](#projects)
-- [Contributing](#contributing)
+// TODO
 
 ## Collection of awesome lists
 
@@ -37,11 +31,6 @@ A collection of awesome things regarding the Epitech school ecosystem.
 - ccache - A tool to cache your compilation.
 - valgrind - A tool to debug memory leaks.
 - gdb - A tool to debug your code.
-- git - A tool to manage your code.
-- criterion - A tool to test your C code.
-- doxygen - A tool to generate documentation from your code.
-- make - A tool to manage your code.
-- cmake - A tool to manage your code.
 
 
 ### Operating system
@@ -68,10 +57,12 @@ A collection of awesome things regarding the Epitech school ecosystem.
 ### Language related
 
 #### C tools
-- Norminettes - A tool to check your code according to the Epitech's coding style.
+- Norminette - Tool to check your code according to the Epitech's coding style.
+    - [Coding style checker](https://github.com/Epitech/coding-style-checker) :white_check_mark: - Official coding style checker made by Epitech. 
+    - [Banana split](https://github.com/Epitech/coding-style-checker) - Retextured version of the official coding style checker.
     - [Abricot](https://github.com/Just1truc/Abricot-Norminette) - A norminette for C projects.
      - [NormEZ](https://github.com/ronanboiteau/NormEZ) - A norminette for C projects.
-- Github action
+- Github action - Tool to run tests on your Github repository.
     - [Github criterion action](https://github.com/MaximePremont/EpitechCriterionActions) - A Github action to run criterion tests on your C projects.
 - [MyRepo](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/myrepo) - A tool to create your Epitech's C repository.
 
@@ -106,9 +97,15 @@ A collection of awesome things regarding the Epitech school ecosystem.
     
 
 ### Functional tests
+#### Tools
+- [Moulitek](https://github.com/MathiDEV/moulitek_fr) - A tool to launch functional tests on your Epitech's projects from a website.
+- [Discord functional test CI](https://github.com/vavarier/install-discord-action) - Allow you to launch functional tests and check your coding style from a Discord bot.
+
 #### Tek 1 
+- [Printf main](https://github.com/izimio/Test_main_my_printf) - A main to test the Printf project.
 - [Pushswap tester](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/checkers/pushswap) - A number generator and a tester for the pushswap project.
 - [Sokoban tester](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/checkers/sokoban) - A tester for the sokoban project.
+- [Antman tester](https://github.com/Just1truc/Antman_tester) - A tester for the antman project.
 
 #### Tek 2
 
@@ -118,12 +115,15 @@ A collection of awesome things regarding the Epitech school ecosystem.
 ### External tools
 
 #### Intranet related
-
 - [Epitech to google calendar](https://github.com/Thezap/Linker_EPITECH_To_GOOGLE_Calendar) - A browser extension to sync your Epitech calendar to your Google calendar.
+- [Projects subjects](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/project_subjects) - Allow you to access to any subject of the first 3 years of EPITECH from the terminal.
+- [Terminal Timeline](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/terminal_timeline) - Allow you to access to your Epitech's timeline from the terminal.
+
+#### Intranet related (Use old Epitech token system, not working anymore)
 - [Intrabot](https://github.com/BastienBoymond/IntraBot) - A Discord bot to get your Epitech's information on discord.
 
 #### Navigator extension (Chrome/Firefox)
-- [MyEpitech percentage](https://github.com/alwyn974/MyEpitechExt) - A browser extension to see your Epitech's percentage.
+- [MyEpitech percentages](https://github.com/alwyn974/MyEpitechExt) - A browser extension to see your Epitech's percentage.
 
 #### Firefox extension
 
@@ -131,10 +131,15 @@ A collection of awesome things regarding the Epitech school ecosystem.
 - [Full GPA](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/fullgpa) - A browser extension to see your Epitech's GPA with a more precise value.
 - [Flat intranet theme](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/flatintra) - A browser extension to change the intranet theme to a flat theme.
 
+
 ## Documentations
 
-### General
+### Useful website
 
+- [Epitech Github](https://github.com/Epitech) :white_check_mark: - Official Epitech's Github.
+- [Epitech Intranet documentation](https://intra.epitech.eu/file/public/documentation) :white_check_mark: - Official Epitech's intranet documentation.
+
+### General
 - [Epitech Subject](https://github.com/Studio-17/Epitech-Subjects) - A collection of Epitech's projects subjects.
 
 ### Tek 1
@@ -145,7 +150,7 @@ A collection of awesome things regarding the Epitech school ecosystem.
 
 ### Tek 4 - Internationnal year
 
-- [Tekfeed](https://tekfeed.epitech.eu/) - Official website for Epitech's destinations.
+- [Tekfeed](https://tekfeed.epitech.eu/) :white_check_mark: - Official website for Epitech's destinations.
 
 
 ### Tek 5
