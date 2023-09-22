@@ -91,7 +91,7 @@ This is still in construction, feel free to contribute !
 
 #### Docker
 
-- [Epitech Docker](https://hub.docker.com/r/epitechcontent/epitest-docker) - A docker image to run your Epitech's projects. ([Github repository](https://github.com/Epitech/epitest-docker))
+- [Epitech Docker](https://hub.docker.com/r/epitechcontent/epitest-docker) - Image to run your Epitech's projects. ([Github repository](https://github.com/Epitech/epitest-docker))
 
 ### Project specific
 
@@ -119,7 +119,7 @@ This is still in construction, feel free to contribute !
 ### External tools
 
 #### Intranet related
-- [Epitech to google calendar](https://github.com/Thezap/Linker_EPITECH_To_GOOGLE_Calendar) - A browser extension to sync your Epitech calendar to your Google calendar.
+- [Epitech to google calendar](https://github.com/Thezap/Linker_EPITECH_To_GOOGLE_Calendar) - Sync your Epitech calendar to your Google calendar.
 - [Projects subjects](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/project_subjects) - Allow you to access to any subject of the first 3 years of EPITECH from the terminal.
 - [Terminal Timeline](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/terminal_timeline) - Allow you to access to your Epitech's timeline from the terminal.
 
@@ -127,13 +127,13 @@ This is still in construction, feel free to contribute !
 - [Intrabot](https://github.com/BastienBoymond/IntraBot) :x: - A Discord bot to get your Epitech's information on discord.
 
 #### Navigator extension (Chrome/Firefox)
-- [MyEpitech percentages](https://github.com/alwyn974/MyEpitechExt) - A browser extension to see your Epitech's percentage.
+- [MyEpitech percentages](https://github.com/alwyn974/MyEpitechExt) - See your Epitech's percentage.
 
 #### Firefox extension
 
 #### Chrome extension
-- [Full GPA](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/fullgpa) - A browser extension to see your Epitech's GPA with a more precise value.
-- [Flat intranet theme](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/flatintra) - A browser extension to change the intranet theme to a flat theme.
+- [Full GPA](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/fullgpa) - See your Epitech's GPA with a more precise value.
+- [Flat intranet theme](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/flatintra) - Change the intranet theme to a flat theme.
 
 ## Awesome Epitech project
 
