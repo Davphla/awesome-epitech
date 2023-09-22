@@ -17,6 +17,7 @@ This is still in construction, feel free to contribute !
 - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of awesome lists regarding hacking.
 - [Awesome Arch](https://github.com/PandaFoss/Awesome-Arch#readme) - A collection of awesome lists regarding Arch Linux.
 - [Awesome Neovim](https://github.com/rockerBOO/awesome-neovim#readme) - A collection of awesome lists regarding Neovim.
+- [Awesome Vic](https://github.com/akrawchyk/awesome-vim) - A collection of awesome lists regarding Vim.
 - [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs#readme) - A collection of awesome lists regarding Emacs.
 
 ## General 
@@ -44,13 +45,10 @@ This is still in construction, feel free to contribute !
 
 - [fish](https://fishshell.com/) - A user-friendly shell.
     - [oh-my-fish]() - A collection of plugins for fish.
-    - [fisher]() - A plugin manager for fish.
 - [zsh]() - A user-friendly shell.
     - [oh-my-zsh]() - A collection of plugins for zsh.
-    - [zinit]() - A plugin manager for zsh.
 - [bash]() - A user-friendly shell.
     - [oh-my-bash]() - A collection of plugins for bash.
-    - [bash-it]() - A plugin manager for bash.
 
 
 ## Epitech Tools
@@ -77,13 +75,6 @@ This is still in construction, feel free to contribute !
 *Empty*
 
 
-### Environment related
-
-#### Docker
-
-- [Epitech Docker](https://hub.docker.com/r/epitechcontent/epitest-docker) - A docker image to run your Epitech's projects. ([Github repository](https://github.com/Epitech/epitest-docker))
-
-
 ### IDE extensions
 
 - VSCode - A free and open-source IDE.
@@ -95,6 +86,12 @@ This is still in construction, feel free to contribute !
     - [Epitech Jetbrains extension]()
 - Emacs - A free and open-source IDE.
     - [Epitech Emacs extension]()
+
+### Environment related
+
+#### Docker
+
+- [Epitech Docker](https://hub.docker.com/r/epitechcontent/epitest-docker) - A docker image to run your Epitech's projects. ([Github repository](https://github.com/Epitech/epitest-docker))
 
 ### Project specific
 
