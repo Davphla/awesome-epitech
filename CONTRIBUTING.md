@@ -24,7 +24,7 @@ For exemple, if you want to add a tool to help you with your shell, you must not
 
 Avoid subjective term if possible, and if there's explain what it is about.
 
-You must also add a link to the official repository of your addition. If you want to add a anything, please follow the following template:
+For tools, you must add a link to the official repository. If you want to add a anything, please follow the following template:
 
 ```markdown
 
