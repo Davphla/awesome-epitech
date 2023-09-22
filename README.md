@@ -60,6 +60,8 @@ This is still in construction, feel free to contribute !
 
 - [Awesome](https://github.com/sindresorhus/awesome) - A collection of awesome lists.
 - [Awesome C](https://github.com/oz123/awesome-c) - A collection of awesome C frameworks, libraries and software.
+- [Awesome C++](https://github.com/fffaraz/awesome-cpp) - A collection of awesome C++ frameworks, libraries and software.
+- [Awesome Haskell](https://github.com/krispo/awesome-haskell) - A collection of awesome Haskell frameworks, libraries and software.
 - [Awesome Linux](https://github.com/inputsh/awesome-linux#readme) - A collection of awesome lists regarding Linux.
 - [Awesome Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - A collection of awesome lists regarding Visual Studio Code.
 - [Awesome Shell](https://github.com/alebcay/awesome-shell#readme) - A collection of awesome lists regarding shell.
@@ -283,7 +285,7 @@ Contributions are very welcome ! Please have a look at [the contribution guideli
 ## Notes
 
 - :white_check_mark: - Official Epitech's tool.
-- :wrench: - Needs a rework.
+- :wrench: - Need a rework.
 - :question: - Not sure if it's working.
 - :x: - Outdated.
 
