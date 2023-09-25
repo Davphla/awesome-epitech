@@ -5,56 +5,8 @@ This is still in construction, feel free to contribute !
 
 ## Contents
 
-- [Collection of awesome lists](#collection-of-awesome-lists)
-- [General](#general)
-    - [General use](#general-use)
-        - [C/C++ tools](#cc-tools)
-    - [Operating system](#operating-system)
-    - [Shell](#shell)
-- [Epitech Tools](#epitech-tools)
-- [IDE extensions](#ide-extensions)
-    - [Environment related](#environment-related)
-        - [Docker](#docker)
-    - [Project specific](#project-specific)
-        - [Tek 1](#tek-1)
-        - [Tek 2](#tek-2)
-        - [Tek 3](#tek-3)
-- [Functional tests](#functional-tests)
-    - [Tools](#tools)
-    - [Tek 1](#tek-1-1)
-    - [Tek 2](#tek-2-1)
-    - [Tek 3](#tek-3-1)
-- [External tools](#external-tools)
-    - [Intranet related](#intranet-related)
-    - [Intranet related (Use old Epitech token system, not working anymore)](#intranet-related-use-old-epitech-token-system-not-working-anymore)
-    - [Navigator extension (Chrome/Firefox)](#navigator-extension-chromefirefox)
-    - [Firefox extension](#firefox-extension)
-    - [Chrome extension](#chrome-extension)
-- [Awesome Epitech project](#awesome-epitech-project)
-    - [General](#general-1)
-    - [Tek 1](#tek-1-2)
-    - [Tek 2](#tek-2-2)
-    - [Tek 3](#tek-3-2)
-    - [Tek 4 - international year](#tek-4---international-year)
-    - [Tek 5](#tek-5)
-- [Documentations](#documentations)
-    - [Useful website](#useful-website)
-    - [General](#general-2)
-    - [Learn Vim](#learn-vim)
-    - [Tek 1](#tek-1-3)
-    - [Tek 2](#tek-2-3)
-    - [Tek 3](#tek-3-3)
-    - [Tek 4 - international year](#tek-4---international-year-1)
-    - [Tek 5](#tek-5-1)
-- [International documentation](#international-documentation)
-    - [South Korea :kr:](#south-korea-kr)
-    - [Canada :canada:](#canada-canada)
-    - [United states of America :us:](#united-states-of-america-us)
-    - [China :cn:](#china-cn)
-    - [Japan :jp:](#japan-jp)
-- [Contributing](#contributing)
-- [Notes](#notes)
 
+- 
 
 ## Collection of awesome lists
 
@@ -101,7 +53,6 @@ This is still in construction, feel free to contribute !
 - [bash]() - A user-friendly shell.
     - [oh-my-bash]() - A collection of plugins for bash.
 
-
 ## Epitech Tools
 ### Language related
 
@@ -144,28 +95,10 @@ This is still in construction, feel free to contribute !
 
 - [Epitech Docker](https://hub.docker.com/r/epitechcontent/epitest-docker) - Image to run your Epitech's projects. ([Github repository](https://github.com/Epitech/epitest-docker))
 
-### Project specific
-
-#### Tek 1
-- [Pushswap visualizer](https://github.com/VecoMr/pushswap-visualizer) - A visualizer for the pushswap project.
-
-### Functional tests
-#### Tools
+### Functional tests tools
 - [Moulitek](https://github.com/MathiDEV/moulitek_fr) :wrench: - Tool to launch functional tests on your Epitech's projects from a website.
 - [Discord functional test CI](https://github.com/vavarier/install-discord-action) - Allow you to launch functional tests and check your coding style from a Discord bot.
 
-#### Tek 1 
-- [Printf main](https://github.com/izimio/Test_main_my_printf) - A main to test the Printf project.
-- [Pushswap tester](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/checkers/pushswap) - A number generator and a tester for the pushswap project.
-- [Sokoban tester](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/checkers/sokoban) - A tester for the sokoban project.
-- [Antman tester](https://github.com/Just1truc/Antman_tester) - A tester for the antman project.
-- [Corewar tester](https://github.com/MikaelVallenet/Corewar/tree/main/bonus/moulinette) - A tester for the compiler part of the Corewar project.
-
-#### Tek 2
-
-- [Epitech functional tests](https://github.com/izimio/myMouli-Epitech-TESTERS ) - A collection of functional tests for Epitech's projects.
-#### Tek 3
-*Empty*
 
 ### External tools
 
@@ -186,14 +119,30 @@ This is still in construction, feel free to contribute !
 - [Full GPA](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/fullgpa) - See your Epitech's GPA with a more precise value.
 - [Flat intranet theme](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/flatintra) - Change the intranet theme to a flat theme.
 
-## Awesome Epitech project
+## Documentation
+### Links
+- [Epitech Github](https://github.com/Epitech) :white_check_mark: - Official Epitech's Github.
+- [Epitech Intranet](https://intra.epitech.eu/) :white_check_mark: - Official Epitech's intranet.
+- [Epitech Intranet documentation](https://intra.epitech.eu/file/public/documentation) :white_check_mark: - Official Epitech's intranet documentation.
 
-### General
 
-- [Project tek 1 / tek 3](https://github.com/gauthiercler/epitech) - A collection of Epitech's projects from the first 3 years.
+### Sujects
+- [Epitech Subject](https://github.com/Studio-17/Epitech-Subjects) - A collection of Epitech's projects subjects.
 
 
-### Tek 1
+
+## Tek 1
+### Project specific
+- [Pushswap visualizer](https://github.com/VecoMr/pushswap-visualizer) - A visualizer for the pushswap project.
+
+### Functional tests
+- [Printf main](https://github.com/izimio/Test_main_my_printf) - A main to test the Printf project.
+- [Pushswap tester](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/checkers/pushswap) - A number generator and a tester for the pushswap project.
+- [Sokoban tester](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/checkers/sokoban) - A tester for the sokoban project.
+- [Antman tester](https://github.com/Just1truc/Antman_tester) - A tester for the antman project.
+- [Corewar tester](https://github.com/MikaelVallenet/Corewar/tree/main/bonus/moulinette) - A tester for the compiler part of the Corewar project.
+
+### Awesome Epitech project
 #### MyRunner :x:
 - [MyRunner](https://github.com/Davphla/my_runner) - Made by David
 
@@ -204,9 +153,17 @@ This is still in construction, feel free to contribute !
 #### MyRPG 
 - [MyRPG](https://github.com/MikaelVallenet/my_rpg) (Promo 2025 Lyon) - Game made on stardew valley theme. Made by Mikael, Nolann, David and Maxime.
 
-### Tek 2
-#### Pool
 
+## Tek 2
+### Project specific
+
+### Functional tests
+
+- [Epitech functional tests](https://github.com/izimio/myMouli-Epitech-TESTERS ) - A collection of functional tests for Epitech's projects.
+
+### Awesome Epitech project
+
+#### Pool
 - [Haskell pool](https://github.com/mpellouin/haskell-pool) (Promo 2025) - Haskell pool.
 - [CPP Pool](https://github.com/mpellouin/cpp-pool) (Promo 2025) - C++ pool.
 
@@ -220,40 +177,14 @@ This is still in construction, feel free to contribute !
 #### Assembly
 - [MinilibC](https://github.com/mpellouin/minilibc) (Promo 2025) - MinilibC project.
 
-### Tek 3
+## Tek 3
+### Project specific
 
-## Documentations
-
-### Useful website
-
-- [Epitech Github](https://github.com/Epitech) :white_check_mark: - Official Epitech's Github.
-- [Epitech Intranet](https://intra.epitech.eu/) :white_check_mark: - Official Epitech's intranet.
-- [Epitech Intranet documentation](https://intra.epitech.eu/file/public/documentation) :white_check_mark: - Official Epitech's intranet documentation.
+## Tek 4 - International year
 
 ### General
-- [Epitech Subject](https://github.com/Studio-17/Epitech-Subjects) - A collection of Epitech's projects subjects.
-
-### Learn Vim
-- [Vim Adventures](https://vim-adventures.com/) - A game to learn Vim.
-- [VimGenius](http://www.vimgenius.com/) - A game to learn Vim.
-
-### Tek 1
-*Empty*
-
-### Tek 2
-*Empty*
-
-### Tek 3 
-*Empty*
-
-### Tek 4 - International year
 - [Tekfeed](https://tekfeed.epitech.eu/) :white_check_mark: - Official website for Epitech's destinations.
-
-
-### Tek 5
-*Empty*
-
-## International documentation
+- [Epitech International](https://international.epitech.eu/) :white_check_mark: - Official website for Epitech's destinations.
 
 ### South Korea :kr:
 
@@ -269,13 +200,14 @@ This is still in construction, feel free to contribute !
 
 - [University of Laval](https://www.ulaval.ca/) - A university in Quebec.
 
-
 ### United states of America :us:
+*Empty*
 
 ### China :cn:
+*Empty*
 
 ### Japan :jp:
-
+*Empty*
 
 ## Contributing
 
