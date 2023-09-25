@@ -23,36 +23,6 @@ This is still in construction, feel free to contribute !
 - [Awesome Vim](https://github.com/akrawchyk/awesome-vim) - A collection of awesome lists regarding Vim.
 - [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs#readme) - A collection of awesome lists regarding Emacs.
 
-## General 
-
-### General use
-
-#### C/C++ tools
-- clang collection - A collection of tools for C/C++ code.
-    - clang - A compiler for C/C++ code.
-    - clang-tidy - A tool to check your code.
-    - clang-format - A tool to format C/C++ code
-- ccache - A tool to cache your compilation (Especially useful in C++).
-- valgrind - A tool to debug memory leaks.
-- gdb - A tool to debug your code.
-
-
-### Operating system
-
-- [EndeavourOS](https://endeavouros.com/) - Arch based operating system.
-- [Ubuntu](https://ubuntu.com/) - A free and open-source operating system.
-- [Fedora](https://getfedora.org/) - A free and open-source operating system.
-- [Arch Linux](https://archlinux.org/) - A free and open-source operating system.
-
-### Shell
-
-- [fish](https://fishshell.com/) - A user-friendly shell.
-    - [oh-my-fish]() - A collection of plugins for fish.
-- [zsh]() - A user-friendly shell.
-    - [oh-my-zsh]() - A collection of plugins for zsh.
-- [bash]() - A user-friendly shell.
-    - [oh-my-bash]() - A collection of plugins for bash.
-
 ## Epitech Tools
 ### Language related
 
