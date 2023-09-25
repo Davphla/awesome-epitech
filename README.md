@@ -94,16 +94,14 @@ This is still in construction, feel free to contribute !
 - [Epitech productivity tools](https://github.com/MathiDEV/epitech_productivity_tools) - A collection of Epitech's tools by Mathidev
 - [Epitech Bundle](https://github.com/Estayparadox/Epitech-Bundle) - A collection of Epitech's project by Estayparadox.
 
-### Documentation
+### Documentations
 #### Links
 - [Epitech Github](https://github.com/Epitech) :white_check_mark: - Official Epitech's Github.
 - [Epitech Intranet](https://intra.epitech.eu/) :white_check_mark: - Official Epitech's intranet.
 - [Epitech Intranet documentation](https://intra.epitech.eu/file/public/documentation) :white_check_mark: - Official Epitech's intranet documentation.
 
-
 #### Sujects
 - [Epitech Subject](https://github.com/Studio-17/Epitech-Subjects) - A collection of Epitech's projects subjects.
-
 
 
 ## Tek 1
@@ -133,7 +131,7 @@ This is still in construction, feel free to contribute !
 - [Bistromatic](https://github.com/MikaelVallenet/Bistromatic) (Promo 2025 - Lyon) - Made by Mikael Vallenet and David Gozlan.
 
 #### MyRunner :x:
-- [MyRunner](https://github.com/Davphla/my_runner) - Made by David
+- [MyRunner](https://github.com/Davphla/my_runner) (Promo 2025 - Lyon) - Made by David Gozlan
 
 ## Tek 2
 ### Project specific
@@ -166,8 +164,17 @@ This is still in construction, feel free to contribute !
 
 ### Functional tests
 ### Projects
+
+#### AREA 
+- [Area](https://github.com/Nolann71/Area_Epitech) (Promo 2025 - Lyon) - Made by Nolann Sabre, Maxime Premont, Ahmed ABOUELLEIL-SAYED, Mikael Vallenet.
+
+#### Glados
+- [Glados](https://github.com/adrienfort/glados) (Promo 2025 - Paris) - Made by Adrien Fort and others.
+
 #### R-Type
-- [R-Type](https://github.com/MikaelVallenet/R-Type) (Promo 2025 Lyon)- Made by Mikael Vallenet and others
+- [R-Type](https://github.com/MikaelVallenet/R-Type) (Promo 2025 - Lyon)- Made by Mikael Vallenet and others
+
+
 
 ## Tek 4 - International year
 
