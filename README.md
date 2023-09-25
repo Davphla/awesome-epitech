@@ -5,7 +5,6 @@ This is still in construction, feel free to contribute !
 
 ## Contents
 
-
 - 
 
 ## Collection of awesome lists
@@ -53,11 +52,11 @@ This is still in construction, feel free to contribute !
     - [Epitech C/C++ Header extension](https://marketplace.visualstudio.com/items?itemName=nicolaspolomack.epitech-c-cpp-headers) - An EPITECH header handler for C/C++ projects.
     - [Corewar code extension](https://marketplace.visualstudio.com/items?itemName=davphla.corewar-code) - An extension to add colors in redcode file for the Corewar project.
 - NeoVim - A free and open-source IDE.
-    - [Epitech NeoVim extension]()
+    - *Empty*
 - Jetbrains IDEs - A collection of IDEs.
-    - [Epitech Jetbrains extension]()
+    - *Empty*
 - Emacs - A free and open-source IDE.
-    - [Epitech Emacs extension]()
+    - *Empty*
 
 ### Environment related
 
@@ -65,12 +64,12 @@ This is still in construction, feel free to contribute !
 
 - [Epitech Docker](https://hub.docker.com/r/epitechcontent/epitest-docker) - Image to run your Epitech's projects. ([Github repository](https://github.com/Epitech/epitest-docker))
 
-### Functional tests tools
+### Functional tests related
 - [Moulitek](https://github.com/MathiDEV/moulitek_fr) :wrench: - Tool to launch functional tests on your Epitech's projects from a website.
 - [Discord functional test CI](https://github.com/vavarier/install-discord-action) - Allow you to launch functional tests and check your coding style from a Discord bot.
 
 
-### External tools
+### Website extensions
 
 #### Intranet related
 - [Epitech to google calendar](https://github.com/Thezap/Linker_EPITECH_To_GOOGLE_Calendar) - Sync your Epitech calendar to your Google calendar.
@@ -82,12 +81,17 @@ This is still in construction, feel free to contribute !
 
 #### Navigator extension (Chrome/Firefox)
 - [MyEpitech percentages](https://github.com/alwyn974/MyEpitechExt) - See your Epitech's percentage.
+- [Epitech experience](https://github.com/NialaH/intraxphub_chrome) - See your Epitech's experience.
 
 #### Firefox extension
 
 #### Chrome extension
 - [Full GPA](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/fullgpa) - See your Epitech's GPA with a more precise value.
 - [Flat intranet theme](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/flatintra) - Change the intranet theme to a flat theme.
+
+### Collections
+- [Epitech tools](https://github.com/LuciferBahamut/EpitechTools) - A collection of Epitech's tools by LuciferBahamut.
+- [Epitech productivity tools](https://github.com/MathiDEV/epitech_productivity_tools) - A collection of Epitech's tools by Mathidev
 
 ### Documentation
 #### Links
