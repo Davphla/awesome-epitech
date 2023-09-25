@@ -117,8 +117,6 @@ This is still in construction, feel free to contribute !
 - [Corewar tester](https://github.com/MikaelVallenet/Corewar/tree/main/bonus/moulinette) - A tester for the compiler part of the Corewar project.
 
 ### Projects
-#### Bistromatic :x:
-- [Bistromatic](https://github.com/MikaelVallenet/Bistromatic) (Promo 2025 - Lyon) - Made by Mikael Vallenet and David Gozlan.
 
 #### Epytodo
 - [Epytodo](https://github.com/MikaelVallenet/EpyTodo) (Promo 2025 - Lyon) - Made by Mikael Vallenet.
@@ -129,6 +127,9 @@ This is still in construction, feel free to contribute !
 
 #### MyRPG 
 - [MyRPG](https://github.com/MikaelVallenet/my_rpg) (Promo 2025 - Lyon) - Game made on stardew valley theme. Made by Mikael, Nolann, David and Maxime.
+
+#### Bistromatic :x:
+- [Bistromatic](https://github.com/MikaelVallenet/Bistromatic) (Promo 2025 - Lyon) - Made by Mikael Vallenet and David Gozlan.
 
 #### MyRunner :x:
 - [MyRunner](https://github.com/Davphla/my_runner) - Made by David
