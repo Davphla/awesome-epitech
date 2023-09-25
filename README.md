@@ -142,9 +142,7 @@ This is still in construction, feel free to contribute !
 - [Antman tester](https://github.com/Just1truc/Antman_tester) - A tester for the antman project.
 - [Corewar tester](https://github.com/MikaelVallenet/Corewar/tree/main/bonus/moulinette) - A tester for the compiler part of the Corewar project.
 
-### Awesome Epitech project
-#### MyRunner :x:
-- [MyRunner](https://github.com/Davphla/my_runner) - Made by David
+### Projects
 
 #### Corewar
 - [Corewar](https://github.com/Just1truc/Corewar-EPITECH-2022) (Promo 2026 Lyon) - Made by Justin and others. (22/22)
@@ -153,6 +151,8 @@ This is still in construction, feel free to contribute !
 #### MyRPG 
 - [MyRPG](https://github.com/MikaelVallenet/my_rpg) (Promo 2025 Lyon) - Game made on stardew valley theme. Made by Mikael, Nolann, David and Maxime.
 
+#### MyRunner :x:
+- [MyRunner](https://github.com/Davphla/my_runner) - Made by David
 
 ## Tek 2
 ### Project specific
@@ -161,7 +161,7 @@ This is still in construction, feel free to contribute !
 
 - [Epitech functional tests](https://github.com/izimio/myMouli-Epitech-TESTERS ) - A collection of functional tests for Epitech's projects.
 
-### Awesome Epitech project
+### Projects
 
 #### Pool
 - [Haskell pool](https://github.com/mpellouin/haskell-pool) (Promo 2025) - Haskell pool.
@@ -179,6 +179,9 @@ This is still in construction, feel free to contribute !
 
 ## Tek 3
 ### Project specific
+
+### Functional tests
+### Projects
 
 ## Tek 4 - International year
 
