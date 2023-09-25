@@ -3,9 +3,67 @@
 A collection of awesome things regarding the Epitech school ecosystem.
 This is still in construction, feel free to contribute !
 
-## Contents
+## Table of content
 
-- 
+- [Collection of awesome lists](#collection-of-awesome-lists)
+- [Epitech Tools](#epitech-tools)
+    - [Language related](#language-related)
+        - [C tools](#c-tools)
+        - [C++ tools](#c-tools)
+        - [Haskell tools](#haskell-tools)
+        - [Python tools](#python-tools)
+    - [IDE extensions](#ide-extensions)
+        - [VSCode](#vscode)
+        - [NeoVim](#neovim)
+        - [Jetbrains IDEs](#jetbrains-ides)
+        - [Emacs](#emacs)
+    - [Environment related](#environment-related)
+        - [Docker](#docker)
+    - [Functional tests related](#functional-tests-related)
+    - [Website extensions](#website-extensions)
+        - [Intranet related](#intranet-related)
+        - [Navigator extension (Chrome/Firefox)](#navigator-extension-chromefirefox)
+        - [Firefox extension](#firefox-extension)
+        - [Chrome extension](#chrome-extension)
+    - [Collections](#collections)
+    - [Documentations](#documentations)
+        - [Links](#links)
+        - [Sujects](#sujects)
+- [Tek 1](#tek-1)
+    - [Project specific](#project-specific)
+    - [Functional tests](#functional-tests)
+    - [Projects](#projects)
+        - [Epytodo](#epytodo)
+        - [Corewar](#corewar)
+        - [MyRPG](#myrpg)
+        - [Bistromatic :x:](#bistromatic-x)
+        - [MyRunner :x:](#myrunner-x)
+- [Tek 2](#tek-2)
+    - [Project specific](#project-specific-1)
+    - [Functional tests](#functional-tests-1)
+    - [Projects](#projects-1)
+        - [Pool](#pool)
+        - [C++](#c)
+        - [Haskell](#haskell)
+        - [Assembly](#assembly)
+        - [Zappy](#zappy)
+- [Tek 3](#tek-3)
+    - [Project specific](#project-specific-2)
+    - [Functional tests](#functional-tests-2)
+    - [Projects](#projects-2)
+        - [AREA](#area)
+        - [Glados](#glados)
+        - [R-Type](#r-type)
+- [Tek 4 - International year](#tek-4---international-year)
+    - [General](#general)
+    - [South Korea :kr:](#south-korea-kr)
+    - [Canada :canada:](#canada-canada)
+    - [United states of America :us:](#united-states-of-america-us)
+    - [China :cn:](#china-cn)
+    - [Japan :jp:](#japan-jp)
+- [Contributing](#contributing)
+- [Notes](#notes)
+
 
 ## Collection of awesome lists
 
@@ -84,6 +142,7 @@ This is still in construction, feel free to contribute !
 - [Epitech experience](https://github.com/NialaH/intraxphub_chrome) - See your Epitech's experience.
 
 #### Firefox extension
+*Empty*
 
 #### Chrome extension
 - [Full GPA](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/fullgpa) - See your Epitech's GPA with a more precise value.
@@ -136,6 +195,7 @@ This is still in construction, feel free to contribute !
 
 ## Tek 2
 ### Project specific
+*Empty*
 
 ### Functional tests
 
@@ -162,8 +222,11 @@ This is still in construction, feel free to contribute !
 
 ## Tek 3
 ### Project specific
+*Empty*
 
 ### Functional tests
+*Empty*
+
 ### Projects
 
 #### AREA 
