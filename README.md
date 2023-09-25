@@ -119,11 +119,11 @@ This is still in construction, feel free to contribute !
 ### Projects
 
 #### Corewar
-- [Corewar](https://github.com/Just1truc/Corewar-EPITECH-2022) (Promo 2026 Lyon) - Made by Justin and others. (22/22)
-- [Corewar](https://github.com/MikaelVallenet/Corewar) (Promo 2025 Lyon) - Made by Mikael, David, Maxime and Victor. (20/22)
+- [Corewar](https://github.com/Just1truc/Corewar-EPITECH-2022) (Promo 2026 - Lyon) - Made by Justin and others.
+- [Corewar](https://github.com/MikaelVallenet/Corewar) (Promo 2025 - Lyon) - Made by Mikael, David, Maxime and Victor.
 
 #### MyRPG 
-- [MyRPG](https://github.com/MikaelVallenet/my_rpg) (Promo 2025 Lyon) - Game made on stardew valley theme. Made by Mikael, Nolann, David and Maxime.
+- [MyRPG](https://github.com/MikaelVallenet/my_rpg) (Promo 2025 - Lyon) - Game made on stardew valley theme. Made by Mikael, Nolann, David and Maxime.
 
 #### MyRunner :x:
 - [MyRunner](https://github.com/Davphla/my_runner) - Made by David
@@ -138,26 +138,29 @@ This is still in construction, feel free to contribute !
 ### Projects
 
 #### Pool
-- [Haskell pool](https://github.com/mpellouin/haskell-pool) (Promo 2025) - Haskell pool.
-- [CPP Pool](https://github.com/mpellouin/cpp-pool) (Promo 2025) - C++ pool.
+- [Haskell pool](https://github.com/mpellouin/haskell-pool) (Promo 2025) - Haskell pool by Maxence Pellouin.
+- [CPP Pool](https://github.com/mpellouin/cpp-pool) (Promo 2025 - Lyon) - C++ pool by Maxence Pellouin.
 
 #### C++
-- [Nanotekspice](https://github.com/mpellouin/nanotekspice) (Promo 2025) - Nanotekspice project.
+- [Nanotekspice](https://github.com/mpellouin/nanotekspice) (Promo - 2025) - Made by Maxence Pellouin.
 
 
 #### Haskell
-- [Image Compressor](https://github.com/mpellouin/imageCompressor) (Promo 2025) - Image Compressor project.
+- [Image Compressor](https://github.com/mpellouin/imageCompressor) (Promo 2025 - Lyon) - Made by Maxence Pellouin.
 
 #### Assembly
-- [MinilibC](https://github.com/mpellouin/minilibc) (Promo 2025) - MinilibC project.
+- [MinilibC](https://github.com/mpellouin/minilibc) (Promo 2025 - Lyon) - Made by Maxence Pellouin.
+
+#### Zappy
+- [AR Zappy](https://github.com/MaximePremont/Zappy_Epitech) (Promo 2025 - Lyon) - Made by Maxime Premont, Nolann Sabre, Ahmed ABOUELLEIL-SAYED, Mikael Vallenet, Yannick Ferrard and Lucien Carneiro
 
 ## Tek 3
 ### Project specific
 
 ### Functional tests
 ### Projects
-#### Zappy
-- [AR Zappy](https://github.com/MaximePremont/Zappy_Epitech) (Promo 2025 Lyon) - Zappy project made by Maxime Premont, Nolann Sabre, Ahmed ABOUELLEIL-SAYED, Mikael Vallenet, Yannick Ferrard and Lucien Carneiro
+#### R-Type
+- [R-Type](https://github.com/MikaelVallenet/R-Type) (Promo 2025 Lyon)- Made by Mikael Vallenet and others
 
 ## Tek 4 - International year
 
