@@ -12,8 +12,6 @@ This repository is a list of awesome resources for Epitech students. It is meant
 
 It's in any way a place to rank repositories. I don't have the power to know which repository is better than another one. This is why you may find a lot of repositories from the same person.
 
-It's also not meant to be a place where you can find every answers to your questions, but rather a place where you can find the tools to find the answers to your questions. 
-
 If you want to contribute, please read the following section.
 
 ## Contributing
