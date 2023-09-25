@@ -89,14 +89,14 @@ This is still in construction, feel free to contribute !
 - [Full GPA](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/fullgpa) - See your Epitech's GPA with a more precise value.
 - [Flat intranet theme](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/flatintra) - Change the intranet theme to a flat theme.
 
-## Documentation
-### Links
+### Documentation
+#### Links
 - [Epitech Github](https://github.com/Epitech) :white_check_mark: - Official Epitech's Github.
 - [Epitech Intranet](https://intra.epitech.eu/) :white_check_mark: - Official Epitech's intranet.
 - [Epitech Intranet documentation](https://intra.epitech.eu/file/public/documentation) :white_check_mark: - Official Epitech's intranet documentation.
 
 
-### Sujects
+#### Sujects
 - [Epitech Subject](https://github.com/Studio-17/Epitech-Subjects) - A collection of Epitech's projects subjects.
 
 
