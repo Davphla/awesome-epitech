@@ -156,6 +156,8 @@ This is still in construction, feel free to contribute !
 
 ### Functional tests
 ### Projects
+#### Zappy
+- [AR Zappy](https://github.com/MaximePremont/Zappy_Epitech) (Promo 2025 Lyon) - Zappy project made by Maxime Premont, Nolann Sabre, Ahmed ABOUELLEIL-SAYED, Mikael Vallenet, Yannick Ferrard and Lucien Carneiro
 
 ## Tek 4 - International year
 
