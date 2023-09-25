@@ -107,6 +107,7 @@ This is still in construction, feel free to contribute !
 ## Tek 1
 ### Project specific
 - [Pushswap visualizer](https://github.com/VecoMr/pushswap-visualizer) - A visualizer for the pushswap project.
+- [Maze Viewer](https://github.com/Nolann71/Area_Epitech) - A visualizer for the dante project.
 
 ### Functional tests
 - [Printf main](https://github.com/izimio/Test_main_my_printf) - A main to test the Printf project.
