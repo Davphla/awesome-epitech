@@ -92,6 +92,7 @@ This is still in construction, feel free to contribute !
 ### Collections
 - [Epitech tools](https://github.com/LuciferBahamut/EpitechTools) - A collection of Epitech's tools by LuciferBahamut.
 - [Epitech productivity tools](https://github.com/MathiDEV/epitech_productivity_tools) - A collection of Epitech's tools by Mathidev
+- [Epitech Bundle](https://github.com/Estayparadox/Epitech-Bundle) - A collection of Epitech's project by Estayparadox.
 
 ### Documentation
 #### Links
