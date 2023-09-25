@@ -144,11 +144,11 @@ This is still in construction, feel free to contribute !
 ### Projects
 
 #### Pool
-- [Haskell pool](https://github.com/mpellouin/haskell-pool) (Promo 2025) - Haskell pool by Maxence Pellouin.
+- [Haskell pool](https://github.com/mpellouin/haskell-pool) (Promo 2025 - Lyon) - Haskell pool by Maxence Pellouin.
 - [CPP Pool](https://github.com/mpellouin/cpp-pool) (Promo 2025 - Lyon) - C++ pool by Maxence Pellouin.
 
 #### C++
-- [Nanotekspice](https://github.com/mpellouin/nanotekspice) (Promo - 2025) - Made by Maxence Pellouin.
+- [Nanotekspice](https://github.com/mpellouin/nanotekspice) (Promo 2025 - Lyon) - Made by Maxence Pellouin.
 
 
 #### Haskell
