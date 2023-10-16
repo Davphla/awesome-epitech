@@ -110,7 +110,7 @@ This is still in construction, feel free to contribute !
     - [Epitech C/C++ Header extension](https://marketplace.visualstudio.com/items?itemName=nicolaspolomack.epitech-c-cpp-headers) - An EPITECH header handler for C/C++ projects.
     - [Corewar code extension](https://marketplace.visualstudio.com/items?itemName=davphla.corewar-code) - An extension to add colors in redcode file for the Corewar project.
 - NeoVim - A free and open-source IDE.
-    - *Empty*
+    - [ECSLS](https://github.com/Sigmapitech-Meta/ecsls) - Coding Style as Language Server (Live)
 - Jetbrains IDEs - A collection of IDEs.
     - *Empty*
 - Emacs - A free and open-source IDE.
