@@ -112,7 +112,7 @@ This is still in construction, feel free to contribute !
 - NeoVim - A free and open-source IDE.
     - [ECSLS](https://github.com/Sigmapitech-Meta/ecsls) - Coding Style as Language Server (Live)
 - Jetbrains IDEs - A collection of IDEs.
-    - *Empty*
+    - [Epitech Header Extension](https://plugins.jetbrains.com/plugin/23066-epitech-header) - Epitech header generator, Made by Epitech students for Epitech students.
 - Emacs - A free and open-source IDE.
     - *Empty*
 
