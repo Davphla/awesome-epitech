@@ -86,10 +86,11 @@ This is still in construction, feel free to contribute !
 #### C tools
 - [Epitech clang-format]() - Configuration to format codes according to the Epitech's coding style. // TODO
 - Norminette - Tool to check your code according to the Epitech's coding style.
-    - [Coding style checker](https://github.com/Epitech/coding-style-checker) :white_check_mark: - Official coding style checker made by Epitech. 
+    - [Coding style checker](https://github.com/Epitech/coding-style-checker) :white_check_mark: - Official coding style checker made by Epitech.
     - [Banana split](https://github.com/Epitech/coding-style-checker) - Retextured version of the official coding style checker.
     - [Abricot](https://github.com/Just1truc/Abricot-Norminette) - A norminette for C projects.
-     - [NormEZ](https://github.com/ronanboiteau/NormEZ) - A norminette for C projects.
+    - [NormEZ](https://github.com/ronanboiteau/NormEZ) - A norminette for C projects.
+    - [EpiHeader](https://github.com/drawpitech/EpiHeader) - Auto Formmatter for Epitech headers.
 - Github action - Tool to run tests on your Github repository.
     - [Github criterion action](https://github.com/MaximePremont/EpitechCriterionActions) - A Github action to run criterion tests on your C projects.
 - [MyRepo](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/myrepo) - A tool to create your Epitech's C repository.
@@ -184,7 +185,7 @@ This is still in construction, feel free to contribute !
 - [Corewar](https://github.com/Just1truc/Corewar-EPITECH-2022) (Promo 2026 - Lyon) - Made by Justin and others.
 - [Corewar](https://github.com/MikaelVallenet/Corewar) (Promo 2025 - Lyon) - Made by Mikael, David, Maxime and Victor.
 
-#### MyRPG 
+#### MyRPG
 - [MyRPG](https://github.com/MikaelVallenet/my_rpg) (Promo 2025 - Lyon) - Game made on stardew valley theme. Made by Mikael, Nolann, David and Maxime.
 
 #### Bistromatic :x:
@@ -229,7 +230,7 @@ This is still in construction, feel free to contribute !
 
 ### Projects
 
-#### AREA 
+#### AREA
 - [Area](https://github.com/Nolann71/Area_Epitech) (Promo 2025 - Lyon) - Made by Nolann Sabre, Maxime Premont, Ahmed ABOUELLEIL-SAYED, Mikael Vallenet.
 
 #### Glados
