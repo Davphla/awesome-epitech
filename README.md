@@ -208,11 +208,11 @@ This is still in construction, feel free to contribute !
 - [CPP Pool](https://github.com/mpellouin/cpp-pool) (Promo 2025 - Lyon) - C++ pool by Maxence Pellouin.
 
 #### C++
-- [Nanotekspice](https://github.com/mpellouin/nanotekspice) (Promo 2025 - Lyon) - Made by Maxence Pellouin.
+- [Nanotekspice](https://github.com/mpellouin/nanotekspice) (Promo 2025 - Lyon) - Made by Maxence Pellouin and Florian Gibault.
 
 
 #### Haskell
-- [Image Compressor](https://github.com/mpellouin/imageCompressor) (Promo 2025 - Lyon) - Made by Maxence Pellouin.
+- [Image Compressor](https://github.com/mpellouin/imageCompressor) (Promo 2025 - Lyon) - Made by Maxence Pellouin and Justine Trupheme.
 
 #### Assembly
 - [MinilibC](https://github.com/mpellouin/minilibc) (Promo 2025 - Lyon) - Made by Maxence Pellouin.
