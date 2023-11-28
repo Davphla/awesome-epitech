@@ -90,7 +90,7 @@ This is still in construction, feel free to contribute !
     - [Banana split](https://github.com/Epitech/coding-style-checker) - Retextured version of the official coding style checker.
     - [Abricot](https://github.com/Just1truc/Abricot-Norminette) - A norminette for C projects.
     - [NormEZ](https://github.com/ronanboiteau/NormEZ) - A norminette for C projects.
-    - [EpiHeader](https://github.com/drawpitech/EpiHeader) - Auto Formmatter for Epitech headers.
+    - [EpiHeader](https://github.com/drawpitech/EpiHeader) - Auto Formatter for Epitech headers.
 - Github action - Tool to run tests on your Github repository.
     - [Github criterion action](https://github.com/MaximePremont/EpitechCriterionActions) - A Github action to run criterion tests on your C projects.
 - [MyRepo](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/myrepo) - A tool to create your Epitech's C repository.
