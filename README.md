@@ -92,6 +92,7 @@ This is still in construction, feel free to contribute !
     - [NormEZ](https://github.com/ronanboiteau/NormEZ) - A norminette for C projects.
     - [EpiHeader](https://github.com/drawpitech/EpiHeader) - Auto Formatter for Epitech headers.
 - Github action - Tool to run tests on your Github repository.
+    - [efc](https://github.com/Dawoox/efc) - A tool to analyze banned function (static).
     - [Github criterion action](https://github.com/MaximePremont/EpitechCriterionActions) - A Github action to run criterion tests on your C projects.
 - [MyRepo](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/myrepo) - A tool to create your Epitech's C repository.
 
