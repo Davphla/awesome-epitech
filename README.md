@@ -91,6 +91,7 @@ This is still in construction, feel free to contribute !
     - [Abricot](https://github.com/Just1truc/Abricot-Norminette) - A norminette for C projects.
     - [NormEZ](https://github.com/ronanboiteau/NormEZ) - A norminette for C projects.
     - [EpiHeader](https://github.com/drawpitech/EpiHeader) - Auto Formatter for Epitech headers.
+    - [AllocStats](https://github.com/Sigmapitech/alloc_stats) - Count runtime allocations and frees.
 - Github action - Tool to run tests on your Github repository.
     - [efc](https://github.com/Dawoox/efc) - A tool to analyze banned function (static).
     - [Github criterion action](https://github.com/MaximePremont/EpitechCriterionActions) - A Github action to run criterion tests on your C projects.
