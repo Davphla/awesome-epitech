@@ -1,7 +1,7 @@
 ## **Awesome Epitech** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection of awesome things regarding the Epitech school ecosystem.
-This is still in construction, feel free to contribute !
+This is still in construction, feel free to contribute ! 
 
 ## Table of content
 
