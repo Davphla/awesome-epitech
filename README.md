@@ -3,7 +3,7 @@
 A collection of awesome things regarding the Epitech school ecosystem.
 This is still in construction, feel free to contribute ! 
 
-## Table of content
+## Table of content 
 
 - [Collection of awesome lists](#collection-of-awesome-lists)
 - [Epitech Tools](#epitech-tools)
