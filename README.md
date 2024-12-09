@@ -262,7 +262,7 @@ This is still in construction, feel free to contribute !
 
 ### Canada :canada:
 
-- [University of Laval](https://www.ulaval.ca/) - A university in Quebec.
+- [University of Laval](https://www.ulaval.ca/) - A university in Quebec. 
 
 ### United states of America :us:
 *Empty*
