@@ -179,56 +179,76 @@ This is still in construction, feel free to contribute !
 - [Antman tester](https://github.com/Just1truc/Antman_tester) - A tester for the antman project.
 - [Corewar tester](https://github.com/MikaelVallenet/Corewar/tree/main/bonus/moulinette) - A tester for the compiler part of the Corewar project.
 
-### Projects
+## Projects
 
-#### Unix System Programming (Part 1)
+### Unix System Programming (Part 1)
 
-##### Sokoban
+#### Sokoban
+*Empty*
 
-##### myls
+#### myls
+*Empty*
 
-#### Unix System Programming (Part 2)
-Navy - minishell
+### Unix System Programming (Part 2)
 
-#### Elementary Programming in C (Part I)
+#### Navy
+*Empty*
 
-##### BSQ
+#### Minishell
+*Empty*
 
-##### Pushswap
+### Elementary Programming in C (Part I)
 
-##### Antman
+#### BSQ
+*Empty*
 
-#### C Graphical Programming (Semester 1)
+#### Pushswap
+*Empty*
 
-#### Mathematics (Semester 1)
-Here are the names of all the modules:  
+#### Antman
+*Empty*
 
-#### **Unix System Programming**  
-#### **Introduction to DevOps**  
-#### **Mathematics**  (Semester 2)
-#### **Elementary Programming in C (Part II)**  
-##### Corewar
+### C Graphical Programming (Semester 1)
+*Empty*
+
+### Mathematics (Semester 1)
+*Empty*
+
+### **Unix System Programming**  
+*Empty*
+
+### **Introduction to DevOps**  
+*Empty*
+
+### **Mathematics**  (Semester 2)
+*Empty*
+
+### **Elementary Programming in C (Part II)**  
+*Empty*
+
+#### Corewar
 - [Corewar](https://github.com/Just1truc/Corewar-EPITECH-2022) (Promo 2026 - Lyon) - Made by Justin and others.
 - [Corewar](https://github.com/MikaelVallenet/Corewar) (Promo 2025 - Lyon) - Made by Mikael, David, Maxime and Victor.
 
-#### **Introduction to Web Development**  
-##### Epytodo
+### **Introduction to Web Development**  
+#### Epytodo
 - [Epytodo](https://github.com/MikaelVallenet/EpyTodo) (Promo 2025 - Lyon) - Made by Mikael Vallenet.
 
-#### **C Graphical Programming** (Semester 2)
+### **C Graphical Programming** (Semester 2)
 
-##### MyRPG
+#### MyRPG
 - [MyRPG](https://github.com/MikaelVallenet/my_rpg) (Promo 2025 - Lyon) - Game made on stardew valley theme. Made by Mikael, Nolann, David and Maxime.
 
 
-#### Old project
+### Old project
 
-#### Bistromatic :x:
+### Bistromatic :x:
 - [Bistromatic](https://github.com/MikaelVallenet/Bistromatic) (Promo 2025 - Lyon) - Made by Mikael Vallenet and David Gozlan.
 
-#### MyRunner :x: - C Graphical Programming
+### MyRunner :x: - C Graphical Programming
 - [MyRunner](https://github.com/Davphla/my_runner) (Promo 2025 - Lyon) - Made by David Gozlan
 
+---
 ## Tek 2
 ### Project specific
 *Empty*
