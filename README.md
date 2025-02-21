@@ -84,7 +84,7 @@ This is still in construction, feel free to contribute !
 ### Language related
 
 #### C tools
-- [Epitech clang-format]() - Configuration to format codes according to the Epitech's coding style. // TODO
+- [Epitech clang-format](https://github.com/Davphla/clang-format-epitech) - Configuration to format codes according to the Epitech's coding style.
 - Norminette - Tool to check your code according to the Epitech's coding style.
     - [Coding style checker](https://github.com/Epitech/coding-style-checker) :white_check_mark: - Official coding style checker made by Epitech.
     - [Banana split](https://github.com/Epitech/coding-style-checker) - Retextured version of the official coding style checker.
