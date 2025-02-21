@@ -181,20 +181,52 @@ This is still in construction, feel free to contribute !
 
 ### Projects
 
-#### Epytodo
-- [Epytodo](https://github.com/MikaelVallenet/EpyTodo) (Promo 2025 - Lyon) - Made by Mikael Vallenet.
+#### Unix System Programming (Part 1)
 
-#### Corewar
+##### Sokoban
+
+##### myls
+
+#### Unix System Programming (Part 2)
+Navy - minishell
+
+#### Elementary Programming in C (Part I)
+
+##### BSQ
+
+##### Pushswap
+
+##### Antman
+
+#### C Graphical Programming (Semester 1)
+
+#### Mathematics (Semester 1)
+Here are the names of all the modules:  
+
+#### **Unix System Programming**  
+#### **Introduction to DevOps**  
+#### **Mathematics**  (Semester 2)
+#### **Elementary Programming in C (Part II)**  
+##### Corewar
 - [Corewar](https://github.com/Just1truc/Corewar-EPITECH-2022) (Promo 2026 - Lyon) - Made by Justin and others.
 - [Corewar](https://github.com/MikaelVallenet/Corewar) (Promo 2025 - Lyon) - Made by Mikael, David, Maxime and Victor.
 
-#### MyRPG
+#### **Introduction to Web Development**  
+##### Epytodo
+- [Epytodo](https://github.com/MikaelVallenet/EpyTodo) (Promo 2025 - Lyon) - Made by Mikael Vallenet.
+
+#### **C Graphical Programming** (Semester 2)
+
+##### MyRPG
 - [MyRPG](https://github.com/MikaelVallenet/my_rpg) (Promo 2025 - Lyon) - Game made on stardew valley theme. Made by Mikael, Nolann, David and Maxime.
+
+
+#### Old project
 
 #### Bistromatic :x:
 - [Bistromatic](https://github.com/MikaelVallenet/Bistromatic) (Promo 2025 - Lyon) - Made by Mikael Vallenet and David Gozlan.
 
-#### MyRunner :x:
+#### MyRunner :x: - C Graphical Programming
 - [MyRunner](https://github.com/Davphla/my_runner) (Promo 2025 - Lyon) - Made by David Gozlan
 
 ## Tek 2
