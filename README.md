@@ -206,7 +206,7 @@ This is still in construction, feel free to contribute !
 *Empty*
 
 #### Antman
-*Empty*
+- [Antman](https://github.com/Davphla/Antman) - (Promo 2025 - Lyon) - Made by David Gozlan and Mikael Vallenet
 
 ### C Graphical Programming (Semester 1)
 *Empty*
