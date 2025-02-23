@@ -242,10 +242,10 @@ This is still in construction, feel free to contribute !
 
 ### Old project
 
-### Bistromatic :x:
+#### Bistromatic :x:
 - [Bistromatic](https://github.com/MikaelVallenet/Bistromatic) (Promo 2025 - Lyon) - Made by Mikael Vallenet and David Gozlan.
 
-### MyRunner :x: - C Graphical Programming
+#### MyRunner :x: - C Graphical Programming
 - [MyRunner](https://github.com/Davphla/my_runner) (Promo 2025 - Lyon) - Made by David Gozlan
 
 ---
