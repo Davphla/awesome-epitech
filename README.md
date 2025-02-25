@@ -63,23 +63,7 @@ This is still in construction, feel free to contribute !
     - [Japan :jp:](#japan-jp)
 - [Contributing](#contributing)
 - [Notes](#notes)
-
-
-## Collection of awesome lists
-
-- [Awesome](https://github.com/sindresorhus/awesome) - A collection of awesome lists.
-- [Awesome C](https://github.com/oz123/awesome-c) - A collection of awesome C frameworks, libraries and software.
-- [Awesome C++](https://github.com/fffaraz/awesome-cpp) - A collection of awesome C++ frameworks, libraries and software.
-- [Awesome Haskell](https://github.com/krispo/awesome-haskell) - A collection of awesome Haskell frameworks, libraries and software.
-- [Awesome Linux](https://github.com/inputsh/awesome-linux#readme) - A collection of awesome lists regarding Linux.
-- [Awesome Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - A collection of awesome lists regarding Visual Studio Code.
-- [Awesome Shell](https://github.com/alebcay/awesome-shell#readme) - A collection of awesome lists regarding shell.
-- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of awesome lists regarding hacking.
-- [Awesome Arch](https://github.com/PandaFoss/Awesome-Arch#readme) - A collection of awesome lists regarding Arch Linux.
-- [Awesome Neovim](https://github.com/rockerBOO/awesome-neovim#readme) - A collection of awesome lists regarding Neovim.
-- [Awesome Vim](https://github.com/akrawchyk/awesome-vim) - A collection of awesome lists regarding Vim.
-- [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs#readme) - A collection of awesome lists regarding Emacs.
-
+- 
 ## Epitech Tools
 ### Language related
 
