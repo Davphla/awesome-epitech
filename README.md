@@ -247,10 +247,10 @@ This is still in construction, feel free to contribute !
 
 ### C Graphical Programming
 #### MyRunner :x:
-- [MyRunner](https://github.com/Davphla/my_runner) (Promo 2025 - Lyon) - Made by David Gozlan
+- [MyRunner - Geometry Dash](https://github.com/Davphla/my_runner) (Promo 2025 - Lyon) - Made by David Gozlan
 
 #### MyScreensaver :x: 
-- [MyScreensaver](https://github.com/Davphla/my-screensaver) (Promo 2025 - Lyon) - Made by David Gozlan
+- [MyScreensaver - Fake 3D effect](https://github.com/Davphla/my-screensaver) (Promo 2025 - Lyon) - Made by David Gozlan
 
 ---
 ## Tek 2
