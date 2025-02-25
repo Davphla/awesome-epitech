@@ -240,8 +240,9 @@ This is still in construction, feel free to contribute !
 - [MyRPG](https://github.com/MikaelVallenet/my_rpg) (Promo 2025 - Lyon) - Game made on stardew valley theme. Made by Mikael, Nolann, David and Maxime.
 
 
-### Old project
+## Old project
 
+### Unix & C Lab Seminar (Part I)
 #### Bistromatic :x:
 - [Bistromatic](https://github.com/MikaelVallenet/Bistromatic) (Promo 2025 - Lyon) - Made by Mikael Vallenet and David Gozlan.
 
