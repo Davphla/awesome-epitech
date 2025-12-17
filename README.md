@@ -76,14 +76,18 @@ The long-term goal is to have an efficient list of usable tools for students and
 #### C tools
 - [Epitech clang-format](https://github.com/Davphla/clang-format-epitech) - Configuration to format codes according to the Epitech's coding style.
 - Norminette - Tool to check your code according to the Epitech's coding style.
-    - [Coding style checker](https://github.com/Epitech/coding-style-checker) :white_check_mark: - Official coding style checker made by Epitech.
-    - [Banana split](https://github.com/Epitech/coding-style-checker) - Retextured version of the official coding style checker.
+    - [Banana](https://github.com/Epitech/banana-coding-style-checker) :white_check_mark: - Official C coding style checker made by Epitech, to be coupled with epiclang
+    - [epiclang](https://github.com/Epitech/epiclang) :white_check_mark: - Clang 20 plugin wrapper for Banana made by Epitech.
+    - [cs2](https://github.com/hugoarnal/cs2) - Epitech Banana v4 Coding Style Helper.
+    - [Coding style checker](https://github.com/Epitech/coding-style-checker) :white_check_mark: :x: - Previous (v3) official coding style checker made by Epitech.
+    - [Banana split](https://github.com/Ardorax/BananaSplit) - Retextured version of the official coding style checker.
     - [Abricot](https://github.com/Just1truc/Abricot-Norminette) - A norminette for C projects.
     - [NormEZ](https://github.com/ronanboiteau/NormEZ) - A norminette for C projects.
     - [EpiHeader](https://github.com/drawpitech/EpiHeader) - Auto Formatter for Epitech headers.
     - [AllocStats](https://github.com/Sigmapitech/alloc_stats) - Count runtime allocations and frees.
 - Github action - Tool to run tests on your Github repository.
     - [efc](https://github.com/Dawoox/efc) - A tool to analyze banned function (static).
+    - [cs2-action](https://github.com/hugoschool/cs2-action) - A tool to execute cs2 in CI.
     - [Github criterion action](https://github.com/MaximePremont/EpitechCriterionActions) - A Github action to run criterion tests on your C projects.
 - [MyRepo](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/myrepo) - A tool to create your Epitech's C repository.
 
@@ -91,7 +95,9 @@ The long-term goal is to have an efficient list of usable tools for students and
 *Empty*
 
 #### Haskell tools
-*Empty*
+- Norminette - Tool to check your code according to the Epitech's coding style.
+    - [lambdananas](https://github.com/Epitech/lambdananas) :white_check_mark: - Official Haskell coding style checker made by Epitech.
+    - [cs2-haskell](https://github.com/hugoschool/cs2-haskell) - Fork of cs2 for Haskell.
 
 #### Python tools
 *Empty*
@@ -108,7 +114,7 @@ The long-term goal is to have an efficient list of usable tools for students and
 - Jetbrains IDEs - A collection of IDEs.
     - [Epitech Header Extension](https://plugins.jetbrains.com/plugin/23066-epitech-header) - Epitech header generator, Made by Epitech students for Epitech students.
 - Emacs - A free and open-source IDE.
-    - *Empty*
+    - [epitech-emacs](https://github.com/Epitech/epitech-emacs) :white_check_mark: - Official Epitech emacs configuration.
 
 ### Environment related
 
