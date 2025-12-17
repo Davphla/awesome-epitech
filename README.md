@@ -54,13 +54,11 @@ This is still in construction, feel free to contribute !
         - [AREA](#area)
         - [Glados](#glados)
         - [R-Type](#r-type)
+- [Events & Hackathons](#events--hackathons)
 - [Tek 4 - International year](#tek-4---international-year)
     - [General](#general)
     - [South Korea :kr:](#south-korea-kr)
     - [Canada :canada:](#canada-canada)
-    - [United states of America :us:](#united-states-of-america-us)
-    - [China :cn:](#china-cn)
-    - [Japan :jp:](#japan-jp)
 - [Contributing](#contributing)
 - [Notes](#notes)
 - 
@@ -150,7 +148,6 @@ This is still in construction, feel free to contribute !
 #### Sujects
 - [Epitech Subject](https://github.com/Studio-17/Epitech-Subjects) - A collection of Epitech's projects subjects.
 
-
 ## Tek 1
 ### Project specific
 - [Pushswap visualizer](https://github.com/VecoMr/pushswap-visualizer) - A visualizer for the pushswap project.
@@ -158,36 +155,21 @@ This is still in construction, feel free to contribute !
 
 ### Functional tests
 - [Printf main](https://github.com/izimio/Test_main_my_printf) - A main to test the Printf project.
-- [Pushswap tester](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/checkers/pushswap) - A number generator and a tester for the pushswap project.
-- [Sokoban tester](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/checkers/sokoban) - A tester for the sokoban project.
-- [Antman tester](https://github.com/Just1truc/Antman_tester) - A tester for the antman project.
 - [Corewar tester](https://github.com/MikaelVallenet/Corewar/tree/main/bonus/moulinette) - A tester for the compiler part of the Corewar project.
 
 ## Projects
 
 ### Unix System Programming (Part 1)
 
-#### Sokoban
-*Empty*
-
 #### myls
 *Empty*
 
 ### Unix System Programming (Part 2)
 
-#### Navy
-*Empty*
-
 #### Minishell
 *Empty*
 
 ### Elementary Programming in C (Part I)
-
-#### BSQ
-*Empty*
-
-#### Pushswap
-*Empty*
 
 #### Antman
 - [Antman](https://github.com/Davphla/Antman) - (Promo 2025 - Lyon) - Made by David Gozlan and Mikael Vallenet
@@ -208,21 +190,24 @@ This is still in construction, feel free to contribute !
 *Empty*
 
 ### **Elementary Programming in C (Part II)**  
-*Empty*
+
+#### Robot Factory
+- [Robot Factory](https://github.com/hugoschool/robot_factory) (Promo 2029 - Lyon) - Made by Hugo Arnal and Esteban.
 
 #### Corewar
+- [Corewar](https://github.com/bsukiennik/corewar) (Promo 2029 - Lyon) - Made by Bastien, Alexandre and others.
 - [Corewar](https://github.com/Just1truc/Corewar-EPITECH-2022) (Promo 2026 - Lyon) - Made by Justin and others.
 - [Corewar](https://github.com/MikaelVallenet/Corewar) (Promo 2025 - Lyon) - Made by Mikael, David, Maxime and Victor.
+
+### **Shell Programming**
+- [42sh](https://github.com/hugoschool/42sh) (Promo 2029 - Lyon) - Made by Hugo Arnal, Alexandre, Cannelle and Esteban.
 
 ### **Introduction to Web Development**  
 #### Epytodo
 - [Epytodo](https://github.com/MikaelVallenet/EpyTodo) (Promo 2025 - Lyon) - Made by Mikael Vallenet.
 
 ### **C Graphical Programming** (Semester 2)
-
-#### MyRPG
-- [MyRPG](https://github.com/MikaelVallenet/my_rpg) (Promo 2025 - Lyon) - Game made on stardew valley theme. Made by Mikael, Nolann, David and Maxime.
-
+*Empty*
 
 ## Old project
 
@@ -230,12 +215,38 @@ This is still in construction, feel free to contribute !
 #### Bistromatic :x:
 - [Bistromatic](https://github.com/MikaelVallenet/Bistromatic) (Promo 2025 - Lyon) - Made by Mikael Vallenet and David Gozlan.
 
+### Elementary Programming in C (Part I)
+
+#### BSQ :x: 
+*Empty*
+
+#### Pushswap :x: 
+*Empty*
+
+### Unix System Programming (Part 1)
+
+#### Sokoban :x: 
+*Empty*
+
+### Unix System Programming (Part 2)
+
+#### Navy :x: 
+*Empty*
+
 ### C Graphical Programming
 #### MyRunner :x:
 - [MyRunner - Geometry Dash](https://github.com/Davphla/my_runner) (Promo 2025 - Lyon) - Made by David Gozlan
 
 #### MyScreensaver :x: 
 - [MyScreensaver - Fake 3D effect](https://github.com/Davphla/my-screensaver) (Promo 2025 - Lyon) - Made by David Gozlan
+
+#### MyRPG :x:
+- [MyRPG](https://github.com/MikaelVallenet/my_rpg) (Promo 2025 - Lyon) - Game made on stardew valley theme. Made by Mikael, Nolann, David and Maxime.
+
+### Functional tests
+- [Pushswap tester](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/checkers/pushswap) :x:  - A number generator and a tester for the pushswap project. 
+- [Sokoban tester](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/checkers/sokoban) :x:  - A tester for the sokoban project.
+- [Antman tester](https://github.com/Just1truc/Antman_tester):x:  - A tester for the antman project.
 
 ---
 ## Tek 2
@@ -265,6 +276,7 @@ This is still in construction, feel free to contribute !
 #### Zappy
 - [AR Zappy](https://github.com/MaximePremont/Zappy_Epitech) (Promo 2025 - Lyon) - Made by Maxime Premont, Nolann Sabre, Ahmed ABOUELLEIL-SAYED, Mikael Vallenet, Yannick Ferrard and Lucien Carneiro
 
+---
 ## Tek 3
 ### Project specific
 *Empty*
@@ -283,7 +295,8 @@ This is still in construction, feel free to contribute !
 #### R-Type
 - [R-Type](https://github.com/MikaelVallenet/R-Type) (Promo 2025 - Lyon)- Made by Mikael Vallenet and others
 
-
+## Events & Hackathons
+- [Corewar Hackathon](https://github.com/AER-Lyon/corewar-hackathon) - Corewar hackathon organized by AER Lyon.
 
 ## Tek 4 - International year
 
@@ -299,20 +312,9 @@ This is still in construction, feel free to contribute !
         - [CAU Global ambassador youtube channel](https://www.youtube.com/channel/UCBxSxDSt1s9iX_-3J2mxQyA) - Youtube channel of the GLAM (Global ambassador) of Chung ang university.
         - [CAU Global ambassador instagram](https://www.instagram.com/cau_glam/) - Instagram of the GLAM (Global ambassador) of Chung ang university.
 
-- [Korea university](https://www.korea.edu/) - A university in Seoul.
-
 ### Canada :canada:
 
 - [University of Laval](https://www.ulaval.ca/) - A university in Quebec. 
-
-### United states of America :us:
-*Empty*
-
-### China :cn:
-*Empty*
-
-### Japan :jp:
-*Empty*
 
 ## Contributing
 
