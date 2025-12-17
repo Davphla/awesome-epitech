@@ -2,7 +2,8 @@
 
 A collection of awesome things regarding the Epitech school ecosystem.
 This is still in construction, feel free to contribute ! 
- 
+The long term goal is to have an efficient list of usable tools for students and an historic list of repository of every project.
+
 ## Table of content 
 
 - [Collection of awesome lists](#collection-of-awesome-lists) 
