@@ -39,7 +39,6 @@ The long-term goal is to have an efficient list of usable tools for students and
         - [Unix System Programming (Part 2)](#unix-system-programming-part-2)
             - [Minishell](#minishell)
         - [Elementary Programming in C (Part I)](#elementary-programming-in-c-part-i)
-            - [Antman](#antman)
         - [C Graphical Programming (Semester 1)](#c-graphical-programming-semester-1)
         - [Mathematics (Semester 1)](#mathematics-semester-1)
         - [Unix System Programming](#unix-system-programming)
@@ -53,20 +52,6 @@ The long-term goal is to have an efficient list of usable tools for students and
             - [Epytodo](#epytodo)
         - [C Graphical Programming (Semester 2)](#c-graphical-programming-semester-2)
     - [Old project](#old-project)
-        - [Unix & C Lab Seminar (Part I)](#unix--c-lab-seminar-part-i)
-            - [Bistromatic :x:](#bistromatic-x)
-        - [Elementary Programming in C (Part I)](#elementary-programming-in-c-part-i-1)
-            - [BSQ :x:](#bsq-x)
-            - [Pushswap :x:](#pushswap-x)
-        - [Unix System Programming (Part 1)](#unix-system-programming-part-1-1)
-            - [Sokoban :x:](#sokoban-x)
-        - [Unix System Programming (Part 2)](#unix-system-programming-part-2-1)
-            - [Navy :x:](#navy-x)
-        - [C Graphical Programming](#c-graphical-programming)
-            - [MyRunner :x:](#myrunner-x)
-            - [MyScreensaver :x:](#myscreensaver-x)
-            - [MyRPG :x:](#myrpg-x)
-        - [Functional tests](#functional-tests-1)
 - [Tek 2](#tek-2)
     - [Project specific](#project-specific-1)
     - [Functional tests](#functional-tests-2)
@@ -185,6 +170,9 @@ The long-term goal is to have an efficient list of usable tools for students and
 - [Printf main](https://github.com/izimio/Test_main_my_printf) - A main to test the Printf project.
 - [Corewar tester](https://github.com/MikaelVallenet/Corewar/tree/main/bonus/moulinette) - A tester for the compiler part of the Corewar project.
 
+## Pools
+*Empty*
+
 ## Projects
 
 ### Unix System Programming (Part 1)
@@ -198,9 +186,7 @@ The long-term goal is to have an efficient list of usable tools for students and
 *Empty*
 
 ### Elementary Programming in C (Part I)
-
-#### Antman
-- [Antman](https://github.com/Davphla/Antman) - (Promo 2025 - Lyon) - Made by David Gozlan and Mikael Vallenet
+*Empty*
 
 ### C Graphical Programming (Semester 1)
 *Empty*
@@ -251,6 +237,9 @@ The long-term goal is to have an efficient list of usable tools for students and
 #### Pushswap :x: 
 *Empty*
 
+#### Antman :x: 
+- [Antman](https://github.com/Davphla/Antman) - (Promo 2025 - Lyon) - Made by David Gozlan and Mikael Vallenet
+
 ### Unix System Programming (Part 1)
 
 #### Sokoban :x: 
@@ -282,7 +271,6 @@ The long-term goal is to have an efficient list of usable tools for students and
 *Empty*
 
 ### Functional tests
-
 - [Epitech functional tests](https://github.com/izimio/myMouli-Epitech-TESTERS ) - A collection of functional tests for Epitech's projects.
 
 ### Projects
@@ -294,8 +282,8 @@ The long-term goal is to have an efficient list of usable tools for students and
 #### C++
 - [Nanotekspice](https://github.com/mpellouin/nanotekspice) (Promo 2025 - Lyon) - Made by Maxence Pellouin and Florian Gibault.
 
-
 #### Haskell
+- [Worlfram](https://github.com/Davphla/wolfram) (Promo 2025 - Lyon) - Made by David Gozlan
 - [Image Compressor](https://github.com/mpellouin/imageCompressor) (Promo 2025 - Lyon) - Made by Maxence Pellouin and Justine Trupheme.
 
 #### Assembly
