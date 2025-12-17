@@ -339,7 +339,7 @@ Contributions are very welcome ! Please have a look at [the contribution guideli
 - :question: - Not sure if it's working.
 - :x: - Outdated.
 
-This is a project I made to help Epitech's students. I'm not affiliated with Epitech in any way. There're no specific order for elements in the lists. 
+This is a project I made to help Epitech's students. I'm not affiliated with Epitech anymore. There're no specific order for elements in the lists. 
 Have fun ! :heart:
 
 
