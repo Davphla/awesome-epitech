@@ -138,8 +138,9 @@ The long-term goal is to have an efficient list of usable tools for students and
 - [Intrabot](https://github.com/BastienBoymond/IntraBot) :wrench: - A Discord bot to get your Epitech's information on discord.
 
 #### Navigator extension (Chrome/Firefox)
-- [MyEpitech percentages](https://github.com/alwyn974/MyEpitechExt) - See your Epitech's percentage.
+- [MyEpitech percentages](https://github.com/alwyn974/MyEpitechExt) - See your Moulinette's percentage.
 - [Epitech experience](https://github.com/NialaH/intraxphub_chrome) - See your Epitech's experience.
+- [EpitechDiffTest](https://github.com/Sigmapitech/EpitechDiffTest) - Provide a diff view of the last failed exercise on the Epitech intranet.
 
 #### Firefox extension
 *Empty*
