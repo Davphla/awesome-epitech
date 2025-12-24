@@ -172,57 +172,126 @@ The long-term goal is to have an efficient list of usable tools for students and
 - [Corewar tester](https://github.com/MikaelVallenet/Corewar/tree/main/bonus/moulinette) - A tester for the compiler part of the Corewar project.
 
 ## Pools
+
+### Tek 1 C Pool
+
+#### Pool days
+*Empty*
+
+#### star
+*Empty*
+
+#### count_island 
 *Empty*
 
 ## Projects
 
-### Unix System Programming (Part 1)
+### Unix System Programming
 
-#### myls
+#### my_ls
 *Empty*
 
-### Unix System Programming (Part 2)
+#### my_sudo
+*Empty*
 
-#### Minishell
+#### my_top
 *Empty*
 
 ### Elementary Programming in C (Part I)
+
+#### Setting Up
+*Empty*
+
+#### Organized
+*Empty*
+
+#### Secured
 *Empty*
 
 ### C Graphical Programming (Semester 1)
+
+#### my_hunter
 *Empty*
+
+#### my_radar
+- [my_radar](https://github.com/Nadal-B/my_radar) (Promo 2029 - Lyon) - Made by Nadal.
 
 ### Mathematics (Semester 1)
 *Empty*
 
-### **Unix System Programming**  
+### Unix System Programming
 *Empty*
 
-### **Introduction to DevOps**  
+### Introduction to DevOps
+
+#### Popeye 
 *Empty*
 
-### **Mathematics**  (Semester 2)
+#### Chocolatine
 *Empty*
 
-### **Elementary Programming in C (Part II)**  
+### Mathematics (Semester 2)
+*Empty*
+
+### Elementary Programming in C (Part II)
 
 #### Robot Factory
 - [Robot Factory](https://github.com/hugoschool/robot_factory) (Promo 2029 - Lyon) - Made by Hugo Arnal and Esteban.
 
+#### Amazed
+*Empty*
+
 #### Corewar
-- [Corewar](https://github.com/bsukiennik/corewar) (Promo 2029 - Lyon) - Made by Bastien, Alexandre and others.
+- [Corewar](https://github.com/bsukiennik/corewar) (Promo 2029 - Lyon) - Made by Bastien and Alexandre.
+- [Corewar](https://github.com/Nadal-B/corewar) (Promo 2029 - Lyon) - Made by Nadal and Sacha.
 - [Corewar](https://github.com/Just1truc/Corewar-EPITECH-2022) (Promo 2026 - Lyon) - Made by Justin and others.
 - [Corewar](https://github.com/MikaelVallenet/Corewar) (Promo 2025 - Lyon) - Made by Mikael, David, Maxime and Victor.
 
-### **Shell Programming**
+### Shell Programming
+
+#### minishell1
+*Empty*
+
+#### minishell2
+*Empty*
+
+#### 42sh
 - [42sh](https://github.com/hugoschool/42sh) (Promo 2029 - Lyon) - Made by Hugo Arnal, Alexandre, Cannelle and Esteban.
 
-### **Introduction to Web Development**  
+### Introduction to Web Development
+
 #### Epytodo
 - [Epytodo](https://github.com/MikaelVallenet/EpyTodo) (Promo 2025 - Lyon) - Made by Mikael Vallenet.
 
-### **C Graphical Programming** (Semester 2)
+### Discovery of Cyber Security (Semester 2)
+
+#### Burp
 *Empty*
+
+### Discovery of Data Analysis (Semester 2)
+
+#### Cuddle
+*Empty*
+
+### Discovery of Software Engineering (Semester 2)
+
+#### my_world
+*Empty*
+
+### Introduction to Cyber Security (Semester 2)
+
+#### Pipeto
+*Empty*
+
+### Introduction to Data Analysis (Semester 2)
+
+#### Tardis
+*Empty*
+
+### Introduction to Software Engineering (Semester 2)
+
+#### Wolf3D
+- [Brawl3D](https://github.com/sachadfz/Brawl3d) (Promo 2029 - Lyon) - Made by Sacha, Nadal & Bastien.
 
 ## Old project
 
@@ -231,9 +300,6 @@ The long-term goal is to have an efficient list of usable tools for students and
 - [Bistromatic](https://github.com/MikaelVallenet/Bistromatic) (Promo 2025 - Lyon) - Made by Mikael Vallenet and David Gozlan.
 
 ### Elementary Programming in C (Part I)
-
-#### BSQ :x: 
-*Empty*
 
 #### Pushswap :x: 
 *Empty*
