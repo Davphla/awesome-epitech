@@ -33,20 +33,25 @@ The long-term goal is to have an efficient list of usable tools for students and
 - [Tek 1](#tek-1)
     - [Project specific](#project-specific)
     - [Functional tests](#functional-tests)
+    - [Pool](#pool)
     - [Projects](#projects)
-        - [Unix System Programming (Part 1)](#unix-system-programming-part-1)
-        - [Unix System Programming (Part 2)](#unix-system-programming-part-2)
+        - [Unix System Programming](#unix-system-programming)
         - [Elementary Programming in C (Part I)](#elementary-programming-in-c-part-i)
         - [C Graphical Programming (Semester 1)](#c-graphical-programming-semester-1)
         - [Mathematics (Semester 1)](#mathematics-semester-1)
-        - [Unix System Programming](#unix-system-programming)
+        - [Unix System Programming](#unix-system-programming-1)
         - [Introduction to DevOps](#introduction-to-devops)
         - [Mathematics (Semester 2)](#mathematics-semester-2)
         - [Elementary Programming in C (Part II)](#elementary-programming-in-c-part-ii)
         - [Shell Programming](#shell-programming)
         - [Introduction to Web Development](#introduction-to-web-development)
-        - [C Graphical Programming (Semester 2)](#c-graphical-programming-semester-2)
-    - [Old project](#old-project)
+        - [Discovery of Cyber Security (Semester 2)](#discovery-of-cyber-security-semester-2)
+        - [Discovery of Data Analysis (Semester 2)](#discovery-of-data-analysis-semester-2)
+        - [Discovery of Software Engineering (Semester 2)](#discovery-of-software-engineering-semester-2)
+        - [Introduction to Cyber Security (Semester 2)](#introduction-to-cyber-security-semester-2)
+        - [Introduction to Data Analysis (Semester 2)](#introduction-to-data-analysis-semester-2)
+        - [Introduction to Software Engineering (Semester 2)](#introduction-to-software-engineering-semester-2)
+    - [Old projects](#old-projects)
 - [Tek 2](#tek-2)
     - [Project specific](#project-specific-1)
     - [Functional tests](#functional-tests-2)
@@ -172,17 +177,15 @@ The long-term goal is to have an efficient list of usable tools for students and
 - [Printf main](https://github.com/izimio/Test_main_my_printf) - A main to test the Printf project.
 - [Corewar tester](https://github.com/MikaelVallenet/Corewar/tree/main/bonus/moulinette) - A tester for the compiler part of the Corewar project.
 
-## Pools
+## Pool
 
-### Tek 1 C Pool
-
-#### Pool days
+### Pool days
 *Empty*
 
-#### star
+### star
 *Empty*
 
-#### count_island 
+### count_island
 *Empty*
 
 ## Projects
@@ -294,7 +297,7 @@ The long-term goal is to have an efficient list of usable tools for students and
 #### Wolf3D
 - [Brawl3D](https://github.com/sachadfz/Brawl3d) (Promo 2029 - Lyon) - Made by Sacha, Nadal & Bastien.
 
-## Old project
+## Old projects
 
 ### Unix & C Lab Seminar (Part I)
 #### Bistromatic :x:
