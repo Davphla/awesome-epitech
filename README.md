@@ -39,7 +39,6 @@ The long-term goal is to have an efficient list of usable tools for students and
         - [Elementary Programming in C (Part I)](#elementary-programming-in-c-part-i)
         - [C Graphical Programming (Semester 1)](#c-graphical-programming-semester-1)
         - [Mathematics (Semester 1)](#mathematics-semester-1)
-        - [Unix System Programming](#unix-system-programming-1)
         - [Introduction to DevOps](#introduction-to-devops)
         - [Mathematics (Semester 2)](#mathematics-semester-2)
         - [Elementary Programming in C (Part II)](#elementary-programming-in-c-part-ii)
@@ -221,9 +220,6 @@ The long-term goal is to have an efficient list of usable tools for students and
 - [my_radar](https://github.com/Nadal-B/my_radar) (Promo 2029 - Lyon) - Made by Nadal.
 
 ### Mathematics (Semester 1)
-*Empty*
-
-### Unix System Programming
 *Empty*
 
 ### Introduction to DevOps
