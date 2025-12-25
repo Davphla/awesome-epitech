@@ -33,20 +33,24 @@ The long-term goal is to have an efficient list of usable tools for students and
 - [Tek 1](#tek-1)
     - [Project specific](#project-specific)
     - [Functional tests](#functional-tests)
+    - [Pool](#pool)
     - [Projects](#projects)
-        - [Unix System Programming (Part 1)](#unix-system-programming-part-1)
-        - [Unix System Programming (Part 2)](#unix-system-programming-part-2)
+        - [Unix System Programming](#unix-system-programming)
         - [Elementary Programming in C (Part I)](#elementary-programming-in-c-part-i)
         - [C Graphical Programming (Semester 1)](#c-graphical-programming-semester-1)
         - [Mathematics (Semester 1)](#mathematics-semester-1)
-        - [Unix System Programming](#unix-system-programming)
         - [Introduction to DevOps](#introduction-to-devops)
         - [Mathematics (Semester 2)](#mathematics-semester-2)
         - [Elementary Programming in C (Part II)](#elementary-programming-in-c-part-ii)
         - [Shell Programming](#shell-programming)
         - [Introduction to Web Development](#introduction-to-web-development)
-        - [C Graphical Programming (Semester 2)](#c-graphical-programming-semester-2)
-    - [Old project](#old-project)
+        - [Discovery of Cyber Security (Semester 2)](#discovery-of-cyber-security-semester-2)
+        - [Discovery of Data Analysis (Semester 2)](#discovery-of-data-analysis-semester-2)
+        - [Discovery of Software Engineering (Semester 2)](#discovery-of-software-engineering-semester-2)
+        - [Introduction to Cyber Security (Semester 2)](#introduction-to-cyber-security-semester-2)
+        - [Introduction to Data Analysis (Semester 2)](#introduction-to-data-analysis-semester-2)
+        - [Introduction to Software Engineering (Semester 2)](#introduction-to-software-engineering-semester-2)
+    - [Old projects](#old-projects)
 - [Tek 2](#tek-2)
     - [Project specific](#project-specific-1)
     - [Functional tests](#functional-tests-2)
@@ -76,14 +80,18 @@ The long-term goal is to have an efficient list of usable tools for students and
 #### C tools
 - [Epitech clang-format](https://github.com/Davphla/clang-format-epitech) - Configuration to format codes according to the Epitech's coding style.
 - Norminette - Tool to check your code according to the Epitech's coding style.
-    - [Coding style checker](https://github.com/Epitech/coding-style-checker) :white_check_mark: - Official coding style checker made by Epitech.
-    - [Banana split](https://github.com/Epitech/coding-style-checker) - Retextured version of the official coding style checker.
+    - [Banana](https://github.com/Epitech/banana-coding-style-checker) :white_check_mark: - Official C coding style checker made by Epitech, to be coupled with epiclang
+    - [epiclang](https://github.com/Epitech/epiclang) :white_check_mark: - Clang 20 plugin wrapper for Banana made by Epitech.
+    - [cs2](https://github.com/hugoarnal/cs2) - Epitech Banana v4 Coding Style Helper.
+    - [Coding style checker](https://github.com/Epitech/coding-style-checker) :white_check_mark: :x: - Previous (v3) official coding style checker made by Epitech.
+    - [Banana split](https://github.com/Ardorax/BananaSplit) - Retextured version of the official coding style checker.
     - [Abricot](https://github.com/Just1truc/Abricot-Norminette) - A norminette for C projects.
     - [NormEZ](https://github.com/ronanboiteau/NormEZ) - A norminette for C projects.
     - [EpiHeader](https://github.com/drawpitech/EpiHeader) - Auto Formatter for Epitech headers.
     - [AllocStats](https://github.com/Sigmapitech/alloc_stats) - Count runtime allocations and frees.
 - Github action - Tool to run tests on your Github repository.
     - [efc](https://github.com/Dawoox/efc) - A tool to analyze banned function (static).
+    - [cs2-action](https://github.com/hugoschool/cs2-action) - A tool to execute cs2 in CI.
     - [Github criterion action](https://github.com/MaximePremont/EpitechCriterionActions) - A Github action to run criterion tests on your C projects.
 - [MyRepo](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/myrepo) - A tool to create your Epitech's C repository.
 
@@ -91,7 +99,9 @@ The long-term goal is to have an efficient list of usable tools for students and
 *Empty*
 
 #### Haskell tools
-*Empty*
+- Norminette - Tool to check your code according to the Epitech's coding style.
+    - [lambdananas](https://github.com/Epitech/lambdananas) :white_check_mark: - Official Haskell coding style checker made by Epitech.
+    - [cs2-haskell](https://github.com/hugoschool/cs2-haskell) - Fork of cs2 for Haskell.
 
 #### Python tools
 *Empty*
@@ -108,7 +118,7 @@ The long-term goal is to have an efficient list of usable tools for students and
 - Jetbrains IDEs - A collection of IDEs.
     - [Epitech Header Extension](https://plugins.jetbrains.com/plugin/23066-epitech-header) - Epitech header generator, Made by Epitech students for Epitech students.
 - Emacs - A free and open-source IDE.
-    - *Empty*
+    - [epitech-emacs](https://github.com/Epitech/epitech-emacs) :white_check_mark: - Official Epitech emacs configuration.
 
 ### Environment related
 
@@ -132,8 +142,9 @@ The long-term goal is to have an efficient list of usable tools for students and
 - [Intrabot](https://github.com/BastienBoymond/IntraBot) :wrench: - A Discord bot to get your Epitech's information on discord.
 
 #### Navigator extension (Chrome/Firefox)
-- [MyEpitech percentages](https://github.com/alwyn974/MyEpitechExt) - See your Epitech's percentage.
+- [MyEpitech percentages](https://github.com/alwyn974/MyEpitechExt) - See your Moulinette's percentage.
 - [Epitech experience](https://github.com/NialaH/intraxphub_chrome) - See your Epitech's experience.
+- [EpitechDiffTest](https://github.com/Sigmapitech/EpitechDiffTest) - Provide a diff view of the last failed exercise on the Epitech intranet.
 
 #### Firefox extension
 *Empty*
@@ -165,69 +176,130 @@ The long-term goal is to have an efficient list of usable tools for students and
 - [Printf main](https://github.com/izimio/Test_main_my_printf) - A main to test the Printf project.
 - [Corewar tester](https://github.com/MikaelVallenet/Corewar/tree/main/bonus/moulinette) - A tester for the compiler part of the Corewar project.
 
-## Pools
+## Pool
+
+### Pool days
+*Empty*
+
+### star
+*Empty*
+
+### count_island
 *Empty*
 
 ## Projects
 
-### Unix System Programming (Part 1)
+### Unix System Programming
 
-#### myls
+#### my_ls
 *Empty*
 
-### Unix System Programming (Part 2)
+#### my_sudo
+*Empty*
 
-#### Minishell
+#### my_top
 *Empty*
 
 ### Elementary Programming in C (Part I)
+
+#### Setting Up
+*Empty*
+
+#### Organized
+*Empty*
+
+#### Secured
 *Empty*
 
 ### C Graphical Programming (Semester 1)
+
+#### my_hunter
 *Empty*
+
+#### my_radar
+- [my_radar](https://github.com/Nadal-B/my_radar) (Promo 2029 - Lyon) - Made by Nadal.
 
 ### Mathematics (Semester 1)
 *Empty*
 
-### **Unix System Programming**  
+### Introduction to DevOps
+
+#### Popeye 
 *Empty*
 
-### **Introduction to DevOps**  
+#### Chocolatine
 *Empty*
 
-### **Mathematics**  (Semester 2)
+### Mathematics (Semester 2)
 *Empty*
 
-### **Elementary Programming in C (Part II)**  
+### Elementary Programming in C (Part II)
 
 #### Robot Factory
 - [Robot Factory](https://github.com/hugoschool/robot_factory) (Promo 2029 - Lyon) - Made by Hugo Arnal and Esteban.
 
+#### Amazed
+*Empty*
+
 #### Corewar
-- [Corewar](https://github.com/bsukiennik/corewar) (Promo 2029 - Lyon) - Made by Bastien, Alexandre and others.
+- [Corewar](https://github.com/bsukiennik/corewar) (Promo 2029 - Lyon) - Made by Bastien and Alexandre.
+- [Corewar](https://github.com/Nadal-B/corewar) (Promo 2029 - Lyon) - Made by Nadal and Sacha.
 - [Corewar](https://github.com/Just1truc/Corewar-EPITECH-2022) (Promo 2026 - Lyon) - Made by Justin and others.
 - [Corewar](https://github.com/MikaelVallenet/Corewar) (Promo 2025 - Lyon) - Made by Mikael, David, Maxime and Victor.
 
-### **Shell Programming**
+### Shell Programming
+
+#### minishell1
+*Empty*
+
+#### minishell2
+*Empty*
+
+#### 42sh
 - [42sh](https://github.com/hugoschool/42sh) (Promo 2029 - Lyon) - Made by Hugo Arnal, Alexandre, Cannelle and Esteban.
 
-### **Introduction to Web Development**  
+### Introduction to Web Development
+
 #### Epytodo
 - [Epytodo](https://github.com/MikaelVallenet/EpyTodo) (Promo 2025 - Lyon) - Made by Mikael Vallenet.
 
-### **C Graphical Programming** (Semester 2)
+### Discovery of Cyber Security (Semester 2)
+
+#### Burp
 *Empty*
 
-## Old project
+### Discovery of Data Analysis (Semester 2)
+
+#### Cuddle
+*Empty*
+
+### Discovery of Software Engineering (Semester 2)
+
+#### my_world
+*Empty*
+
+### Introduction to Cyber Security (Semester 2)
+
+#### Pipeto
+*Empty*
+
+### Introduction to Data Analysis (Semester 2)
+
+#### Tardis
+*Empty*
+
+### Introduction to Software Engineering (Semester 2)
+
+#### Wolf3D
+- [Brawl3D](https://github.com/sachadfz/Brawl3d) (Promo 2029 - Lyon) - Made by Sacha, Nadal & Bastien.
+
+## Old projects
 
 ### Unix & C Lab Seminar (Part I)
 #### Bistromatic :x:
 - [Bistromatic](https://github.com/MikaelVallenet/Bistromatic) (Promo 2025 - Lyon) - Made by Mikael Vallenet and David Gozlan.
 
 ### Elementary Programming in C (Part I)
-
-#### BSQ :x: 
-*Empty*
 
 #### Pushswap :x: 
 *Empty*
