@@ -218,6 +218,7 @@ The long-term goal is to have an efficient list of usable tools for students and
 
 #### my_radar
 - [my_radar](https://github.com/Nadal-B/my_radar) (Promo 2029 - Lyon) - Made by Nadal.
+- [my_radar](https://github.com/GodlyJaaaj/my_radar) (Promo 2027 - Lyon) - Made by Sébastien LUCAS 
 
 ### Mathematics (Semester 1)
 *Empty*
